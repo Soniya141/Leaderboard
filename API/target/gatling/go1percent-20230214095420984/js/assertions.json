@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.Runner.Go1percent",
+  "simulationId": "go1percent",
+  "start": 1676368460984,
+  "description": "",
+  "scenarios": ["Summary API"],
+  "assertions": [
+
+  ]
+}

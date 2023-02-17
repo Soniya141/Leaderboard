@@ -1,0 +1,1201 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1675071266329	 	3.5.1
+USER	Contribution API	START	1675071267721
+USER	Contribution API	START	1675071268211
+USER	Contribution API	START	1675071268712
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071267748	1675071268782	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071268211	1675071269092	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071269213
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071268712	1675071269596	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071269713
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071269213	1675071270130	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071270205
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071269714	1675071270667	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071270706
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071270206	1675071271100	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071271206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071270707	1675071271599	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071271707
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071271800	1675071272108	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071271207	1675071272113	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071272206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071272094	1675071272392	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071271708	1675071272634	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071272706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071272598	1675071272904	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071272206	1675071273085	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071273206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071273131	1675071273431	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071272707	1675071273588	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071273706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071273669	1675071273970	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071273206	1675071274122	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071274205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071274101	1675071274404	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071273707	1675071274583	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071274706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071274600	1675071274895	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071274206	1675071275083	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071275205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071275109	1675071275419	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071275114	1675071275419	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071275705
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071275393	1675071275760	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071274707	1675071275760	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071275636	1675071276095	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071276206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071275906	1675071276234	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071275205	1675071276234	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071276087	1675071276433	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071276706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071276432	1675071276895	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071276589	1675071276933	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071275705	1675071276949	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071277206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071276207	1675071277227	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071276972	1675071277276	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071277124	1675071277424	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071276707	1675071277579	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071277706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071277405	1675071277718	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071277585	1675071277885	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071277206	1675071278141	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071277896	1675071278194	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071278206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071278084	1675071278398	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071277706	1675071278604	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071278706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071278421	1675071278725	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071278421	1675071278728	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071278207	1675071279118	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071278762	1675071279118	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071278762	1675071279118	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071279206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071279097	1675071279402	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071279236	1675071279530	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071279235	1675071279539	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071279706
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071278707	1675071279732	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071279435	1675071279739	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071279206	1675071280088	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071279896	1675071280204	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071280206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071279934	1675071280241	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071279950	1675071280247	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071280229	1675071280525	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071280277	1675071280581	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071279706	1675071280611	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071280706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071280426	1675071280728	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071280580	1675071280877	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071280719	1675071281030	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071280206	1675071281131	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071280886	1675071281188	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071281206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071281143	1675071281448	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071281195	1675071281494	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071280707	1675071281605	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071281399	1675071281698	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071281706
+USER	Contribution API	END	1675071281730
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071281605	1675071281905	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071281729	1675071282034	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071281206	1675071282093	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071282120
+USER	Contribution API	START	1675071282206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071282119	1675071282444	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071282119	1675071282448	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071282541
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071281706	1675071282583	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071282706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071282404	1675071282710	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071282532	1675071282830	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071282733	1675071283029	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071282741	1675071283056	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071282206	1675071283111	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071283205
+USER	Contribution API	START	1675071283206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071283089	1675071283384	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071283242	1675071283579	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071282707	1675071283579	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071283248	1675071283579	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071283583
+USER	Contribution API	START	1675071283706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071283526	1675071283827	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071283612	1675071283918	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071283729	1675071284030	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071284031
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071283206	1675071284123	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071283878	1675071284185	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071284205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071284133	1675071284439	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071284495
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071284189	1675071284496	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071283707	1675071284621	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071284706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071284449	1675071284758	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071284606	1675071284928	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071284699	1675071285001	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071285035
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071284206	1675071285068	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071285206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071284907	1675071285217	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071285095	1675071285418	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071284706	1675071285587	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071285706
+USER	Contribution API	END	1675071285711
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071285445	1675071285746	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071285449	1675071285810	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071285584	1675071285875	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071286057
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071285831	1675071286130	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071285206	1675071286131	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071286206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071286030	1675071286334	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071286113	1675071286437	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071286580
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071285707	1675071286598	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071286385	1675071286692	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071286706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071286580	1675071286878	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071286580	1675071286881	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071287031
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071286206	1675071287099	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071286828	1675071287128	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071287206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071286919	1675071287220	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071287124	1675071287425	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071287187	1675071287490	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071287497
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071286707	1675071287583	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071287706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071287440	1675071287767	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071288002
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071287759	1675071288074	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071287206	1675071288094	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071288206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071287929	1675071288254	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071288069	1675071288381	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071288218	1675071288535	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071287707	1675071288607	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071288706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071287622	1675071288768	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071288811
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071288588	1675071288894	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071288748	1675071289064	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071288206	1675071289087	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071289131
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071288876	1675071289171	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071289205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071289132	1675071289426	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071288419	1675071289582	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071289335	1675071289634	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071289706
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071288706	1675071289714	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071289438	1675071289743	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071289882
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071289599	1675071289926	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071289693	1675071290022	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071289206	1675071290122	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071290129
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071289879	1675071290180	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071290206
+USER	Contribution API	END	1675071290491
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071290221	1675071290571	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071290100	1675071290571	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071290706
+USER	Contribution API	END	1675071291075
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071290768	1675071291171	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071289706	1675071291171	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071290584	1675071291171	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071290426	1675071291172	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071291205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071291095	1675071291463	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071291537
+USER	Contribution API	START	1675071291706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071291382	1675071291816	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071290706	1675071291816	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071290206	1675071291816	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071291255	1675071291816	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071291608	1675071291950	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071292065
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071291769	1675071292112	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071291895	1675071292199	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071292206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071292088	1675071292390	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071292173	1675071292480	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071291206	1675071292534	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071292636
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071291706	1675071292693	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071292706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071292427	1675071292741	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071292583	1675071292889	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071292715	1675071293017	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071293023
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071292743	1675071293046	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071292206	1675071293093	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071293205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071292927	1675071293234	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071293123	1675071293429	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071293181	1675071293483	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071293572
+USER	Contribution API	START	1675071293706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071293572	1675071293876	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071293206	1675071294119	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071294173
+USER	Contribution API	START	1675071294206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071294172	1675071294476	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071294172	1675071294476	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071294172	1675071294477	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071292706	1675071294589	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071293706	1675071294594	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071294706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071294464	1675071294763	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071294817
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071294206	1675071295093	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071294817	1675071295140	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071294817	1675071295140	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071294817	1675071295140	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071295206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071294950	1675071295263	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071295113	1675071295448	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071295482
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071295200	1675071295500	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071295391	1675071295703	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071295706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071295535	1675071295872	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071295890
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071295694	1675071295993	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071295742	1675071296043	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071296047
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071295206	1675071296092	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071296206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071296018	1675071296336	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071296094	1675071296391	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071296484
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071296235	1675071296542	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071295706	1675071296572	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071296705
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071296430	1675071296736	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071296877	1675071297190	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071294707	1675071297201	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071297205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071297120	1675071297418	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071297478
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071296706	1675071297608	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071297706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071297477	1675071297778	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071297477	1675071297778	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071297590	1675071297888	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071297595	1675071297896	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071297764	1675071298063	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071298141
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071296206	1675071298176	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071298205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071298094	1675071298385	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071298141	1675071298443	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071298141	1675071298446	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071298449
+USER	Contribution API	END	1675071298501
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071298264	1675071298573	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071297706	1675071298650	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071298705
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071298704	1675071299006	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071299044
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071298206	1675071299089	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071298872	1675071299186	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071299206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071298994	1675071299299	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071299092	1675071299391	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071299543
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071298706	1675071299585	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071299337	1675071299644	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071297206	1675071299679	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071299391	1675071299696	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071299706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071299572	1675071299864	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071299737	1675071300041	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071300191
+USER	Contribution API	START	1675071300206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071300202	1675071300518	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071299706	1675071300574	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071300706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071300418	1675071300742	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071300779
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071300609	1675071300912	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071301064
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071300779	1675071301081	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071300207	1675071301082	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071299206	1675071301111	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071300889	1675071301196	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071300897	1675071301204	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071301205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071301177	1675071301489	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071301574
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071300707	1675071301579	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071301386	1675071301682	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071301705
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071301443	1675071301748	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071301447	1675071301754	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071301651	1675071301950	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071302007
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071301205	1675071302089	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071302206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071302089	1675071302391	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071302187	1675071302513	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071301706	1675071302568	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071302300	1675071302616	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071302645
+USER	Contribution API	START	1675071302706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071302392	1675071302722	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071302586	1675071302882	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071302680	1675071302980	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071303042
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071302697	1675071303050	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071302206	1675071303128	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071302865	1675071303167	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071303206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071302706	1675071303597	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071303706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071303519	1675071303823	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071303575	1675071303867	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071304082
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071303743	1675071304139	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071304206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071303913	1675071304235	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071303206	1675071304307	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071304083	1675071304382	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071304112	1675071304410	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071304197	1675071304511	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071304206	1675071304511	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071303706	1675071304689	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071304706
+USER	Contribution API	END	1675071304749
+USER	Contribution API	END	1675071304755
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071304490	1675071304788	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071304580	1675071304876	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071304683	1675071304984	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071304206	1675071305107	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071305206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071304951	1675071305277	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071305090	1675071305391	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071305515
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071304706	1675071305585	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071305617
+USER	Contribution API	START	1675071305706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071305392	1675071305720	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071305569	1675071305983	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071306051
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071305723	1675071306054	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071305207	1675071306183	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071305883	1675071306185	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071306205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071305980	1675071306364	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071306128	1675071306543	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071306167	1675071306543	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071306705
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071305707	1675071306744	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071306598	1675071307008	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071306823	1675071307136	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071307140
+USER	Contribution API	START	1675071307206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071306206	1675071307248	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071306868	1675071307255	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071307512
+USER	Contribution API	END	1675071307512
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071307236	1675071307551	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071307308	1675071307602	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071306706	1675071307635	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071307383	1675071307687	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071307706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071307410	1675071307712	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071307985
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071307789	1675071308094	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071307206	1675071308094	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071307877	1675071308178	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071308206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071308107	1675071308407	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071308278	1675071308589	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071308707
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071308392	1675071308708	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071308586	1675071308896	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071307690	1675071308937	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071308721	1675071309023	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071309055
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071308206	1675071309126	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071309205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071308984	1675071309284	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071309186	1675071309497	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071309184	1675071309497	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071309545
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071308707	1675071309581	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071309365	1675071309681	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071309706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071309544	1675071309846	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071309745	1675071310040	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071309206	1675071310107	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071310137
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071307707	1675071310154	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071310206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071310009	1675071310308	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071310552
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071310249	1675071310558	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071310257	1675071310558	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071309706	1675071310611	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071310706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071310603	1675071310908	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071310636	1675071310934	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071310688	1675071310989	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071310713	1675071311018	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071310206	1675071311093	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071311095
+USER	Contribution API	START	1675071311206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071311094	1675071311391	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071311179	1675071311473	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071310706	1675071311577	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071311591
+USER	Contribution API	START	1675071311706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071311408	1675071311714	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071311709	1675071312011	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071312024
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071311206	1675071312101	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071312206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071311897	1675071312214	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071311938	1675071312240	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071312127	1675071312431	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071312498
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071311707	1675071312577	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071312284	1675071312601	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071312682
+USER	Contribution API	START	1675071312706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071312498	1675071312805	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071312582	1675071312877	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071312207	1675071313088	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071312847	1675071313156	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071313205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071313040	1675071313368	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071313108	1675071313419	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071313156	1675071313447	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071313559
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071312707	1675071313597	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071313309	1675071313625	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071313705
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071313558	1675071313880	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071313612	1675071313922	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071313990
+USER	Contribution API	END	1675071314020
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071313206	1675071314096	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071314207
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071313909	1675071314244	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071313935	1675071314257	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071314094	1675071314423	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071314474
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071313706	1675071314566	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071314707
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071314392	1675071314717	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071314578	1675071314870	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071315012
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071314714	1675071315028	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071314207	1675071315075	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071315205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071315102	1675071315423	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071315215	1675071315518	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071315241	1675071315542	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071314708	1675071315570	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071315602
+USER	Contribution API	START	1675071315705
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071315431	1675071315738	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071315578	1675071315877	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071315206	1675071316102	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071315807	1675071316112	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071316157
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071315878	1675071316185	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071316206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071316089	1675071316390	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071315706	1675071316594	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071316626
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071316369	1675071316701	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071316706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071316420	1675071316747	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071316448	1675071316749	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071316598	1675071316925	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071316206	1675071317096	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071316881	1675071317177	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071317206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071316924	1675071317229	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071317245
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071317097	1675071317398	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071317258	1675071317567	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071316707	1675071317588	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071317706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071317424	1675071317733	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071317567	1675071317857	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071318029
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071317718	1675071318032	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071317207	1675071318100	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071317871	1675071318167	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071318207
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071318076	1675071318374	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071318520
+USER	Contribution API	END	1675071318543
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071317706	1675071318592	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071318707
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071318424	1675071318732	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071318571	1675071318862	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071318739	1675071319052	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071319114
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071318207	1675071319137	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071318878	1675071319177	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071319205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071319103	1675071319409	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071319186	1675071319486	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071318707	1675071319614	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071319391	1675071319696	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071319702
+USER	Contribution API	START	1675071319705
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071319594	1675071319894	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071319750	1675071320055	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071319748	1675071320062	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071319206	1675071320081	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071320178
+USER	Contribution API	START	1675071320206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071319925	1675071320230	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071320097	1675071320503	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071320230	1675071320539	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071320568
+USER	Contribution API	START	1675071320706
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071319706	1675071320817	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071320399	1675071320830	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071320589	1675071321003	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071321033
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071320734	1675071321163	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071320207	1675071321163	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071321205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071320858	1675071321292	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071321101	1675071321492	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071321705
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071321168	1675071321770	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071321374	1675071321990	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071321593	1675071321990	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071321733	1675071322041	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071322053
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071320707	1675071322078	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071321863	1675071322203	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071322206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071321206	1675071322370	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071322177	1675071322484	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071322487
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071321706	1675071322610	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071322410	1675071322707	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071322707
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071322615	1675071322917	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071322697	1675071323000	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071323057
+USER	Contribution API	END	1675071323063
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071322206	1675071323098	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071323207
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071322895	1675071323213	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071322138	1675071323266	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071323082	1675071323389	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071323231	1675071323528	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071323541
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071322707	1675071323614	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071323707
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071323503	1675071323896	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071323817	1675071324153	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071324164
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071323831	1675071324190	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071323207	1675071324195	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071324206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071324003	1675071324382	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071324164	1675071324564	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071324292	1675071324653	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071324706
+USER	Contribution API	END	1675071324771
+USER	Contribution API	END	1675071325042
+USER	Contribution API	START	1675071325206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071324991	1675071325439	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071324991	1675071325439	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071325485
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071325079	1675071325611	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071325204	1675071325612	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071324493	1675071325653	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071325706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071325370	1675071325795	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071326001
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071325610	1675071326019	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071324706	1675071326019	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071323707	1675071326080	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071326206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071325708	1675071326272	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071325917	1675071326429	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071325206	1675071326429	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071326529
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071326214	1675071326611	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071326099	1675071326611	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071326267	1675071326611	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071326706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071326391	1675071326843	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071326615	1675071327099	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071325706	1675071327126	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071327192
+USER	Contribution API	START	1675071327206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071326897	1675071327251	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071326207	1675071327331	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071327195	1675071327581	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071324206	1675071327581	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071327154	1675071327582	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071327654
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071327383	1675071327685	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071326707	1675071327705	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071327706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071327565	1675071327922	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071328206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071327206	1675071328224	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071328441
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071327706	1675071328588	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071328613
+USER	Contribution API	START	1675071328706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071328441	1675071328751	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071328653	1675071329018	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071328612	1675071329019	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071328796	1675071329101	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071328206	1675071329112	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071329206
+USER	Contribution API	END	1675071329274
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071329020	1675071329319	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071329020	1675071329327	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071329081	1675071329447	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071329612
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071328707	1675071329616	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071329706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071329430	1675071329730	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071329430	1675071329733	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071329612	1675071329920	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071329612	1675071329921	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071329206	1675071330084	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071329844	1675071330143	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071330205
+USER	Contribution API	END	1675071330252
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071330100	1675071330405	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071330127	1675071330426	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071329706	1675071330598	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071330332	1675071330629	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071330686
+USER	Contribution API	START	1675071330705
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071330582	1675071330886	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071330582	1675071330887	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071330582	1675071330887	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071330706	1675071331007	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071330206	1675071331072	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071331206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071330922	1675071331223	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071331225	1675071331529	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071330706	1675071331574	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071331706
+USER	Contribution API	END	1675071331752
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071331589	1675071331884	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071332019
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071331206	1675071332070	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071332206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071332019	1675071332333	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071332113	1675071332414	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071332102	1675071332414	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071331706	1675071332593	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071332320	1675071332633	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071332328	1675071332640	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071332706
+USER	Contribution API	END	1675071332731
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071332448	1675071332749	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071332617	1675071332917	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071332921
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071332734	1675071333044	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071332206	1675071333080	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071333144
+USER	Contribution API	START	1675071333206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071332921	1675071333234	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071333085	1675071333388	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071332706	1675071333592	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071333706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071333405	1675071333711	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071333427	1675071333746	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071333888
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071333599	1675071333900	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071333630	1675071333931	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071333206	1675071334076	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071333887	1675071334191	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071333887	1675071334191	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071334205
+USER	Contribution API	END	1675071334224
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071334008	1675071334320	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071334073	1675071334372	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071333706	1675071334579	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071334706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071334529	1675071334839	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071334575	1675071334872	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071334206	1675071335097	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071334884	1675071335188	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071335206
+USER	Contribution API	END	1675071335334
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071335070	1675071335362	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071335415
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071334706	1675071335575	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071335642
+USER	Contribution API	START	1675071335706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071335414	1675071335727	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071335594	1675071335897	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071335634	1675071335935	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071335749	1675071336054	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071335206	1675071336067	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071336205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071335917	1675071336224	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071336235
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071336045	1675071336363	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071336081	1675071336375	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071335706	1675071336614	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071336389	1675071336693	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071336706
+USER	Contribution API	END	1675071336711
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071336592	1675071336890	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071336747	1675071337078	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071336206	1675071337091	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071337192
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071336901	1675071337204	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071337206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071336932	1675071337234	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071337077	1675071337370	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071337192	1675071337502	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071336706	1675071337611	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071337321	1675071337639	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071337373	1675071337668	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071337706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071337580	1675071337874	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071337207	1675071338098	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071337840	1675071338150	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071337873	1675071338170	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071338206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071338098	1675071338394	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071338188	1675071338488	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071337706	1675071338609	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071338362	1675071338682	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071338706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071338575	1675071338868	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071338936
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071338728	1675071339032	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071339055
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071338206	1675071339071	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071338898	1675071339200	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071339206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071339068	1675071339361	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071339364
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071339225	1675071339596	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071338706	1675071339596	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071339376	1675071339686	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071339706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071339614	1675071339909	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071339694	1675071339993	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071340079
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071339890	1675071340200	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071339206	1675071340205	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071340205
+USER	Contribution API	END	1675071340235
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071340092	1675071340389	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071340503
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071340205	1675071340512	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071339706	1675071340577	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071340640
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071340371	1675071340669	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071340706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071340612	1675071340916	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071340206	1675071341068	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071341152
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071340876	1675071341178	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071341206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071341099	1675071341398	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071341171	1675071341478	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071341489
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071340706	1675071341580	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071340669	1675071341634	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071341394	1675071341698	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071341706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071341610	1675071341905	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071341683	1675071341982	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071342033
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071341206	1675071342079	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071341869	1675071342199	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071342206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071342071	1675071342362	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071342200	1675071342507	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071342597
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071342362	1675071342664	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071342706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071342687	1675071342988	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071342994
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071342206	1675071343086	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071343205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071342910	1675071343244	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071343206	1675071343505	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071343200	1675071343506	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071343513
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071341706	1675071343533	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071342706	1675071343577	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071343390	1675071343692	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071343705
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071342597	1675071343745	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071343577	1675071343871	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071343669	1675071343986	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071343205	1675071344089	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071344206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071343917	1675071344218	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071344069	1675071344361	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071344178	1675071344478	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071344479
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071343705	1675071344602	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071344635
+USER	Contribution API	START	1675071344706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071344399	1675071344710	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071344581	1675071344879	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071344983
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071344698	1675071345012	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071344206	1675071345103	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071345206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071344906	1675071345244	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071345079	1675071345370	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071345199	1675071345496	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071345508
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071344706	1675071345573	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071345362	1675071345677	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071345706
+USER	Contribution API	END	1675071345989
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071345664	1675071346002	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071345206	1675071346094	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071346205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071346086	1675071346393	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071346507
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071346245	1675071346547	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071345706	1675071346601	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071346705
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071346505	1675071346817	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071346533	1675071346834	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071346577	1675071346881	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071346986
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071346693	1675071347008	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071346746	1675071347049	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071346871	1675071347182	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071347206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071347089	1675071347386	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071347479
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071347219	1675071347529	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071346705	1675071347624	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071347361	1675071347674	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071347706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071347602	1675071347901	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071348013
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071347206	1675071348096	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071346205	1675071348103	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071347879	1675071348187	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071348206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071348104	1675071348404	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071348497
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071348244	1675071348557	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071347706	1675071348615	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071348371	1675071348666	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071348706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071347711	1675071348749	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071348574	1675071348888	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071348678	1675071348973	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071349003
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071348206	1675071349088	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071349206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071349094	1675071349389	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071349548
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071349393	1675071349694	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071349706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071349602	1675071349899	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071348706	1675071349953	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071350009
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071349818	1675071350132	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071349834	1675071350137	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071349881	1675071350187	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071350206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071350050	1675071350417	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071350529
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071350182	1675071350574	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071350706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071350386	1675071350737	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071350624	1675071351064	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071350675	1675071351189	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071349206	1675071351189	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071351206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071350901	1675071351206	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071350206	1675071351384	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071351558
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071351188	1675071351599	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071351103	1675071351599	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071351097	1675071351599	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071350706	1675071351679	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071351706
+USER	Contribution API	END	1675071351750
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071349706	1675071351813	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071351404	1675071351814	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071351616	1675071351938	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071351974
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071351667	1675071351975	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071351888	1675071352188	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071352206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071351206	1675071352231	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071352089	1675071352387	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071351706	1675071352691	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071352390	1675071352691	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071352706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071352694	1675071353001	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071352206	1675071353102	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071353133
+USER	Contribution API	START	1675071353206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071352900	1675071353216	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071352953	1675071353265	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071353418
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071353138	1675071353444	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071353188	1675071353488	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071353576
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071352706	1675071353582	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071353706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071353737	1675071354043	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071353206	1675071354097	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071354190
+USER	Contribution API	START	1675071354206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071354065	1675071354398	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071354207	1675071354513	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071354600
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071354384	1675071354679	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071354706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071354599	1675071354899	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071354599	1675071354905	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071353706	1675071354969	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071354977
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071354679	1675071354985	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071354206	1675071355104	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071354815	1675071355113	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071354815	1675071355117	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071355206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071354939	1675071355259	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071354190	1675071355265	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071355188	1675071355485	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071355231	1675071355528	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071354706	1675071355614	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071355387	1675071355685	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071355706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071355692	1675071355990	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071355692	1675071355994	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071356002
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071355206	1675071356124	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071356206
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071356102	1675071356398	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071356445
+USER	Contribution API	END	1675071356489
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071356217	1675071356531	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071356265	1675071356583	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071355706	1675071356595	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071356706
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071356582	1675071356876	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071357044
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071356206	1675071357094	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071357205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071357098	1675071357391	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071357515
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071356706	1675071357666	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071357706
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071357399	1675071357763	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071358118
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071357679	1675071358156	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071358206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071357900	1675071358359	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071357206	1675071358359	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071357985	1675071358359	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071357905	1675071358359	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071357970	1675071358359	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071358486
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071358114	1675071358563	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071358104	1675071358563	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071357706	1675071358791	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071358260	1675071358791	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071358265	1675071358791	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071358706
+USER	Contribution API	END	1675071358994
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071358528	1675071358998	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071358614	1675071358998	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071358686	1675071359078	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071359206
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071358206	1675071359283	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071359124	1675071359423	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071359532
+USER	Contribution API	START	1675071359706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071359398	1675071359727	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071359583	1675071359883	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071359595	1675071359898	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071358990	1675071360066	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071359206	1675071360104	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071359876	1675071360176	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071360205
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071360094	1675071360385	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071359706	1675071360602	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071358706	1675071360678	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071360391	1675071360698	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071360705
+USER	Contribution API	END	1675071360764
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071360667	1675071360957	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071360206	1675071361089	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071361205
+USER	Contribution API	END	1675071361360
+USER	Contribution API	END	1675071361360
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071361157	1675071361454	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071360706	1675071361589	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071361360	1675071361667	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071361360	1675071361670	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071361360	1675071361671	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071361705
+USER	Contribution API	END	1675071361792
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071361563	1675071361861	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071361563	1675071361872	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071361205	1675071362069	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071362079
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071361791	1675071362087	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071361791	1675071362090	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071362206
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071361998	1675071362310	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071361998	1675071362313	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071362284	1675071362579	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071361705	1675071362626	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071362706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071362424	1675071362728	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071362883
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071362727	1675071363033	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071362206	1675071363114	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071363205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071362899	1675071363207	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071363066	1675071363369	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071363104	1675071363402	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071363177	1675071363475	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071362706	1675071363597	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071363385	1675071363683	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071363705
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071363602	1675071363928	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071363678	1675071363976	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071363699	1675071363994	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071363205	1675071364086	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071364205
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071363958	1675071364262	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071364089	1675071364385	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071364455
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071363705	1675071364580	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071364671
+USER	Contribution API	START	1675071364706
+USER	Contribution API	END	1675071364862
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071364590	1675071364885	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071364672	1675071364978	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071364667	1675071364978	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071365091
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071364205	1675071365097	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071364872	1675071365185	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071365205
+USER	Contribution API	END	1675071365311
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071365069	1675071365362	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071365088	1675071365415	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071364706	1675071365599	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071365314	1675071365625	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071365706
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071365579	1675071365876	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071365627	1675071365933	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071365728	1675071366026	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071366034
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071365205	1675071366081	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071366205
+USER	Contribution API	END	1675071366370
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071366115	1675071366415	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071366475
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071366207	1675071366514	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071365706	1675071366578	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071366402	1675071366703	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071366705
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071366597	1675071366895	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071366683	1675071366978	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071366995
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071366205	1675071367094	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1675071367206
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071366928	1675071367231	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071366977	1675071367271	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071367086	1675071367385	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071366706	1675071367582	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071367262	1675071367662	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071367386	1675071367806	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071367580	1675071367876	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071367979
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071367886	1675071368184	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071368185
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1675071367206	1675071368205	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071367978	1675071368283	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071368097	1675071368400	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071368626
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071368362	1675071368667	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071368416	1675071368717	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071368600	1675071368926	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071369028
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071368877	1675071369178	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071368933	1675071369249	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071369081	1675071369384	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071369515
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071369416	1675071369727	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071369579	1675071369874	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071369979
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071369703	1675071370019	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071369895	1675071370202	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071370095	1675071370398	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071370232	1675071370530	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071370271	1675071370571	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071370663
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071370386	1675071370686	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071370806	1675071371106	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071370876	1675071371196	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071371284
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071371185	1675071371487	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071371205	1675071371501	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071371400	1675071371702	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/getApprovedContributionsForAll?pageNumber=1&limit=10000-Fetch other contributions are there which are approved	1675071370582	1675071371716	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071371718
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071371667	1675071371963	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071372180
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071371927	1675071372231	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071372249	1675071372564	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071372384	1675071372716	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071373020
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071372727	1675071373030	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071372874	1675071373174	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071373203	1675071373505	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071373531
+USER	Contribution API	END	1675071373572
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071373398	1675071373711	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071373686	1675071373992	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071374107
+USER	Contribution API	END	1675071374488
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071374196	1675071374504	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071374502	1675071374811	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071374964
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071374703	1675071375041	KO	status.find.is(200), but actually found 403
+REQUEST		/contribution/allContribution?pageNumber=1&limit=1000-Fetch all the other contributions which are available there for approval	1675071374716	1675071375045	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071375232	1675071375542	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071375565
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071375717	1675071376018	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071376031
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071376174	1675071376506	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071376507
+USER	Contribution API	END	1675071376994
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071376712	1675071377023	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071377504
+USER	Contribution API	END	1675071378042
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071377812	1675071378114	KO	status.find.is(200), but actually found 403
+REQUEST		/ReviewedContribution?pageNumber=1&limit=10-Helps us to edit the proposal contribution.	1675071378045	1675071378356	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1675071378543
+USER	Contribution API	END	1675071379019
+USER	Contribution API	END	1675071379507
+USER	Contribution API	END	1675071380024
+USER	Contribution API	END	1675071381114
+USER	Contribution API	END	1675071381356

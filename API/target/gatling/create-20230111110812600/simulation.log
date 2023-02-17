@@ -1,0 +1,4 @@
+RUN	Simulations.Create	create	1673435292600	 	3.5.1
+USER	Create  Scenario	START	1673435298409
+REQUEST		Fetch contribution	1673435298434	1673435299276	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1673435302294

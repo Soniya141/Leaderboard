@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 200,
+        "ko": 100
+    },
+    "minResponseTime": {
+        "total": 291,
+        "ok": 293,
+        "ko": 291
+    },
+    "maxResponseTime": {
+        "total": 38510,
+        "ok": 38510,
+        "ko": 878
+    },
+    "meanResponseTime": {
+        "total": 3635,
+        "ok": 5288,
+        "ko": 329
+    },
+    "standardDeviation": {
+        "total": 6503,
+        "ok": 7432,
+        "ko": 79
+    },
+    "percentiles1": {
+        "total": 318,
+        "ok": 2622,
+        "ko": 303
+    },
+    "percentiles2": {
+        "total": 4321,
+        "ok": 6205,
+        "ko": 320
+    },
+    "percentiles3": {
+        "total": 19937,
+        "ok": 22032,
+        "ko": 422
+    },
+    "percentiles4": {
+        "total": 28979,
+        "ok": 29988,
+        "ko": 694
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 99,
+    "percentage": 33
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 101,
+    "percentage": 34
+},
+    "group4": {
+    "name": "failed",
+    "count": 100,
+    "percentage": 33
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.4193548387096775,
+        "ok": 1.6129032258064515,
+        "ko": 0.8064516129032258
+    }
+},
+"contents": {
+"req_my-proposal-88028": {
+        "type": "REQUEST",
+        "name": "my Proposal",
+"path": "my Proposal",
+"pathFormatted": "req_my-proposal-88028",
+"stats": {
+    "name": "my Proposal",
+    "numberOfRequests": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 3982,
+        "ok": 3982,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 38510,
+        "ok": 38510,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 10240,
+        "ok": 10240,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 7836,
+        "ok": 7836,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 6281,
+        "ok": 6281,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 13991,
+        "ok": 13991,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 26741,
+        "ok": 26741,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 31402,
+        "ok": 31402,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 100,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.8064516129032258,
+        "ok": 0.8064516129032258,
+        "ko": 0
+    }
+}
+    },"req_proposal-d6511": {
+        "type": "REQUEST",
+        "name": "Proposal",
+"path": "Proposal",
+"pathFormatted": "req_proposal-d6511",
+"stats": {
+    "name": "Proposal",
+    "numberOfRequests": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 293,
+        "ok": 293,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1262,
+        "ok": 1262,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 335,
+        "ok": 335,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 120,
+        "ok": 120,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 302,
+        "ok": 302,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 313,
+        "ok": 313,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 473,
+        "ok": 473,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 796,
+        "ok": 796,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 99,
+    "percentage": 99
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 1
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.8064516129032258,
+        "ok": 0.8064516129032258,
+        "ko": 0
+    }
+}
+    },"req_edit-proposal-45b16": {
+        "type": "REQUEST",
+        "name": "Edit Proposal",
+"path": "Edit Proposal",
+"pathFormatted": "req_edit-proposal-45b16",
+"stats": {
+    "name": "Edit Proposal",
+    "numberOfRequests": {
+        "total": 100,
+        "ok": 0,
+        "ko": 100
+    },
+    "minResponseTime": {
+        "total": 291,
+        "ok": 0,
+        "ko": 291
+    },
+    "maxResponseTime": {
+        "total": 878,
+        "ok": 0,
+        "ko": 878
+    },
+    "meanResponseTime": {
+        "total": 329,
+        "ok": 0,
+        "ko": 329
+    },
+    "standardDeviation": {
+        "total": 79,
+        "ok": 0,
+        "ko": 79
+    },
+    "percentiles1": {
+        "total": 303,
+        "ok": 0,
+        "ko": 303
+    },
+    "percentiles2": {
+        "total": 320,
+        "ok": 0,
+        "ko": 320
+    },
+    "percentiles3": {
+        "total": 422,
+        "ok": 0,
+        "ko": 422
+    },
+    "percentiles4": {
+        "total": 694,
+        "ok": 0,
+        "ko": 694
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 100,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.8064516129032258,
+        "ok": 0,
+        "ko": 0.8064516129032258
+    }
+}
+    }
+}
+
+}

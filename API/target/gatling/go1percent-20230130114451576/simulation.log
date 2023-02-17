@@ -1,0 +1,31 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1675079091576	 	3.5.1
+USER	Contribution API	START	1675079092499
+USER	Contribution API	START	1675079092592
+USER	Contribution API	START	1675079092693
+USER	Contribution API	START	1675079092793
+USER	Contribution API	START	1675079092893
+USER	Contribution API	START	1675079092994
+USER	Contribution API	START	1675079093094
+USER	Contribution API	START	1675079093194
+USER	Contribution API	START	1675079093294
+USER	Contribution API	START	1675079093394
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079092515	1675079093390	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079092593	1675079093473	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079092693	1675079093660	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079092794	1675079093661	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079092894	1675079093776	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079092994	1675079093876	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079093094	1675079093969	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079093195	1675079094078	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079093295	1675079094267	KO	status.find.is(200), but actually found 404
+REQUEST		/contribution/reject?title=fghgf&contributionType=book&sessionId=1-Helps us to edit the proposal contribution.	1675079093395	1675079094390	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1675079096411
+USER	Contribution API	END	1675079096474
+USER	Contribution API	END	1675079096662
+USER	Contribution API	END	1675079096662
+USER	Contribution API	END	1675079096778
+USER	Contribution API	END	1675079096878
+USER	Contribution API	END	1675079096971
+USER	Contribution API	END	1675079097080
+USER	Contribution API	END	1675079097269
+USER	Contribution API	END	1675079097392

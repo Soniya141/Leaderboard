@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 900,
+        "ok": 0,
+        "ko": 900
+    },
+    "minResponseTime": {
+        "total": 274,
+        "ok": 0,
+        "ko": 274
+    },
+    "maxResponseTime": {
+        "total": 2046,
+        "ok": 0,
+        "ko": 2046
+    },
+    "meanResponseTime": {
+        "total": 484,
+        "ok": 0,
+        "ko": 484
+    },
+    "standardDeviation": {
+        "total": 280,
+        "ok": 0,
+        "ko": 280
+    },
+    "percentiles1": {
+        "total": 288,
+        "ok": 0,
+        "ko": 288
+    },
+    "percentiles2": {
+        "total": 388,
+        "ok": 0,
+        "ko": 389
+    },
+    "percentiles3": {
+        "total": 834,
+        "ok": 0,
+        "ko": 834
+    },
+    "percentiles4": {
+        "total": 1054,
+        "ok": 0,
+        "ko": 1054
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 900,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 8.108108108108109,
+        "ok": 0,
+        "ko": 8.108108108108109
+    }
+},
+"contents": {
+"req_my-techup---fet-e47da": {
+        "type": "REQUEST",
+        "name": "My Techup - Fetch approved Techup",
+"path": "My Techup - Fetch approved Techup",
+"pathFormatted": "req_my-techup---fet-e47da",
+"stats": {
+    "name": "My Techup - Fetch approved Techup",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 0,
+        "ko": 300
+    },
+    "minResponseTime": {
+        "total": 815,
+        "ok": 0,
+        "ko": 815
+    },
+    "maxResponseTime": {
+        "total": 2046,
+        "ok": 0,
+        "ko": 2046
+    },
+    "meanResponseTime": {
+        "total": 868,
+        "ok": 0,
+        "ko": 868
+    },
+    "standardDeviation": {
+        "total": 108,
+        "ok": 0,
+        "ko": 108
+    },
+    "percentiles1": {
+        "total": 833,
+        "ok": 0,
+        "ko": 833
+    },
+    "percentiles2": {
+        "total": 841,
+        "ok": 0,
+        "ko": 841
+    },
+    "percentiles3": {
+        "total": 907,
+        "ok": 0,
+        "ko": 907
+    },
+    "percentiles4": {
+        "total": 1159,
+        "ok": 0,
+        "ko": 1159
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 300,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.7027027027027026,
+        "ok": 0,
+        "ko": 2.7027027027027026
+    }
+}
+    },"req_approval-techup-db6d1": {
+        "type": "REQUEST",
+        "name": "Approval Techup - Fetch approval Techups",
+"path": "Approval Techup - Fetch approval Techups",
+"pathFormatted": "req_approval-techup-db6d1",
+"stats": {
+    "name": "Approval Techup - Fetch approval Techups",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 0,
+        "ko": 300
+    },
+    "minResponseTime": {
+        "total": 274,
+        "ok": 0,
+        "ko": 274
+    },
+    "maxResponseTime": {
+        "total": 462,
+        "ok": 0,
+        "ko": 462
+    },
+    "meanResponseTime": {
+        "total": 294,
+        "ok": 0,
+        "ko": 294
+    },
+    "standardDeviation": {
+        "total": 33,
+        "ok": 0,
+        "ko": 33
+    },
+    "percentiles1": {
+        "total": 281,
+        "ok": 0,
+        "ko": 281
+    },
+    "percentiles2": {
+        "total": 283,
+        "ok": 0,
+        "ko": 283
+    },
+    "percentiles3": {
+        "total": 303,
+        "ok": 0,
+        "ko": 303
+    },
+    "percentiles4": {
+        "total": 431,
+        "ok": 0,
+        "ko": 431
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 300,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.7027027027027026,
+        "ok": 0,
+        "ko": 2.7027027027027026
+    }
+}
+    },"req_alltechup---fet-75e95": {
+        "type": "REQUEST",
+        "name": "AllTechup - Fetch all Techup",
+"path": "AllTechup - Fetch all Techup",
+"pathFormatted": "req_alltechup---fet-75e95",
+"stats": {
+    "name": "AllTechup - Fetch all Techup",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 0,
+        "ko": 300
+    },
+    "minResponseTime": {
+        "total": 275,
+        "ok": 0,
+        "ko": 275
+    },
+    "maxResponseTime": {
+        "total": 432,
+        "ok": 0,
+        "ko": 432
+    },
+    "meanResponseTime": {
+        "total": 290,
+        "ok": 0,
+        "ko": 290
+    },
+    "standardDeviation": {
+        "total": 26,
+        "ok": 0,
+        "ko": 26
+    },
+    "percentiles1": {
+        "total": 281,
+        "ok": 0,
+        "ko": 281
+    },
+    "percentiles2": {
+        "total": 283,
+        "ok": 0,
+        "ko": 283
+    },
+    "percentiles3": {
+        "total": 296,
+        "ok": 0,
+        "ko": 296
+    },
+    "percentiles4": {
+        "total": 407,
+        "ok": 0,
+        "ko": 407
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 300,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.7027027027027026,
+        "ok": 0,
+        "ko": 2.7027027027027026
+    }
+}
+    }
+}
+
+}

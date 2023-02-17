@@ -1,0 +1,31 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1675078924248	 	3.5.1
+USER	Contribution API	START	1675078925496
+USER	Contribution API	START	1675078925588
+USER	Contribution API	START	1675078925689
+USER	Contribution API	START	1675078925789
+USER	Contribution API	START	1675078925889
+USER	Contribution API	START	1675078925990
+USER	Contribution API	START	1675078926090
+USER	Contribution API	START	1675078926190
+USER	Contribution API	START	1675078926290
+USER	Contribution API	START	1675078926391
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078925511	1675078926407	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078925589	1675078926480	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078925689	1675078926596	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078925790	1675078926685	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078925890	1675078926791	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078925990	1675078926870	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078926091	1675078926997	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078926190	1675078927096	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078926291	1675078927184	KO	status.find.is(200), but actually found 400
+REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675078926392	1675078927297	KO	status.find.is(200), but actually found 400
+USER	Contribution API	END	1675078929429
+USER	Contribution API	END	1675078929481
+USER	Contribution API	END	1675078929598
+USER	Contribution API	END	1675078929687
+USER	Contribution API	END	1675078929792
+USER	Contribution API	END	1675078929871
+USER	Contribution API	END	1675078929998
+USER	Contribution API	END	1675078930098
+USER	Contribution API	END	1675078930185
+USER	Contribution API	END	1675078930299

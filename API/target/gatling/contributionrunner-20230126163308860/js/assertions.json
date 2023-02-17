@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.Runner.ContributionRunner",
+  "simulationId": "contributionrunner",
+  "start": 1674750788860,
+  "description": "",
+  "scenarios": ["Summary API"],
+  "assertions": [
+
+  ]
+}

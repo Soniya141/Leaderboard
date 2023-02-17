@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.Runner.Studio",
+  "simulationId": "studio",
+  "start": 1674652892394,
+  "description": "",
+  "scenarios": ["Leaderboard API"],
+  "assertions": [
+
+  ]
+}

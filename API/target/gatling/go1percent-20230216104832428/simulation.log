@@ -1,0 +1,1201 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1676544512428	 	3.5.1
+USER	Contribution API	START	1676544513659
+REQUEST		Manage Slot- Fetch the completed session information	1676544513675	1676544514537	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544514650
+REQUEST		Manage Slot- Fetch the completed session information	1676544514651	1676544515566	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544515650
+USER	Contribution API	START	1676544516646
+REQUEST		Manage Slot- Fetch the completed session information	1676544515651	1676544516748	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544516647	1676544517580	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544517646
+REQUEST		Past Session- Fetch the completed session information	1676544517560	1676544517940	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544517646	1676544518554	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544518646
+REQUEST		Past Session- Fetch the completed session information	1676544518568	1676544518862	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544519645
+REQUEST		Manage Slot- Fetch the completed session information	1676544518647	1676544519651	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544519749	1676544520038	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544519646	1676544520577	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544520646
+REQUEST		Past Session- Fetch the completed session information	1676544520582	1676544520910	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544520942	1676544521218	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544520647	1676544521525	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544521648
+REQUEST		Past Session- Fetch the completed session information	1676544521556	1676544521869	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544521863	1676544522157	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544521649	1676544522548	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544522646
+REQUEST		Past Session- Fetch the completed session information	1676544522652	1676544522958	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544523040	1676544523327	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544522646	1676544523572	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544523646
+REQUEST		Past Session- Fetch the completed session information	1676544523579	1676544523879	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544523911	1676544524225	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544524219	1676544524532	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544523647	1676544524532	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544524646
+REQUEST		Past Session- Fetch the completed session information	1676544524527	1676544524856	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544524870	1676544525149	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544525158	1676544525434	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544524646	1676544525487	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544525646
+REQUEST		Past Session- Fetch the completed session information	1676544525550	1676544525927	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544525959	1676544526262	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544525646	1676544526541	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544526328	1676544526616	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544526646
+REQUEST		Past Session- Fetch the completed session information	1676544526573	1676544526886	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544526880	1676544527232	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544527227	1676544527505	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544527646
+REQUEST		My Past Session- Fetch the completed session information	1676544527533	1676544527809	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544527533	1676544527809	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544527857	1676544528133	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544528151	1676544528441	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544527646	1676544528492	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544528646
+REQUEST		My Past Session- Fetch the completed session information	1676544528436	1676544528713	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544528489	1676544528767	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544528928	1676544529207	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544526646	1676544529511	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544528646	1676544529512	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544529263	1676544529566	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544529646
+REQUEST		Past Session- Fetch the completed session information	1676544529542	1676544529892	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544529617	1676544529902	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544529887	1676544530165	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544529646	1676544530511	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544530233	1676544530512	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544530646
+REQUEST		My Past Session- Fetch the completed session information	1676544530507	1676544530866	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544530810	1676544531139	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544530810	1676544531139	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544531135	1676544531467	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544531646
+REQUEST		My Past Session- Fetch the completed session information	1676544531442	1676544531739	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544530646	1676544531742	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544531493	1676544531891	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544531714	1676544532095	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544531768	1676544532096	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544532208	1676544532586	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544531646	1676544532593	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544532645
+REQUEST		Past Session- Fetch the completed session information	1676544532512	1676544532791	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544532513	1676544532795	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544532567	1676544532869	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544532894	1676544533171	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544532903	1676544533187	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544533166	1676544533504	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544532646	1676544533504	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544533645
+REQUEST		My Past Session- Fetch the completed session information	1676544533513	1676544533812	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544533513	1676544533812	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544533867	1676544534146	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544534140	1676544534431	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544533646	1676544534499	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544534646
+REQUEST		My Past Session- Fetch the completed session information	1676544534468	1676544534744	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544534740	1676544535014	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544534743	1676544535017	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544534892	1676544535177	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544535097	1676544535449	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544534646	1676544535465	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544535646
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544534140	1676544535823	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544535589	1676544535865	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544535594	1676544535875	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544535097	1676544536010	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544535792	1676544536068	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544535797	1676544536074	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544535870	1676544536173	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544536172	1676544536474	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544535646	1676544536490	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544536646
+REQUEST		My Past Session- Fetch the completed session information	1676544536506	1676544536781	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544536506	1676544536782	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544536188	1676544537088	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544536814	1676544537092	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544536814	1676544537100	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544536646	1676544537464	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544537646
+REQUEST		My Past Session- Fetch the completed session information	1676544537432	1676544537712	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544537500	1676544537785	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544537147	1676544538013	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544537745	1676544538020	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544538018	1676544538293	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544538178	1676544538462	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544537647	1676544538462	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544538646
+REQUEST		My Past Session- Fetch the completed session information	1676544538451	1676544538728	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544538467	1676544538740	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544538016	1676544538847	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544538826	1676544539101	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544538866	1676544539143	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544538877	1676544539159	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544539011	1676544539286	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544539069	1676544539345	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544539076	1676544539353	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544538647	1676544539465	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544539646
+REQUEST		My Past Session- Fetch the completed session information	1676544539475	1676544539750	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544539492	1676544539775	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544539174	1676544539995	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544539783	1676544540056	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544539782	1676544540057	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544540089	1676544540424	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544540100	1676544540425	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544539646	1676544540551	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544540646
+REQUEST		Past Session- Fetch the completed session information	1676544540465	1676544540739	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544540713	1676544540988	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544540786	1676544541072	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544540093	1676544541166	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544541014	1676544541291	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544540646	1676544541537	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544541294	1676544541570	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544541646
+REQUEST		Past Session- Fetch the completed session information	1676544541464	1676544541739	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544541464	1676544541747	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544541021	1676544541877	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544541730	1676544542009	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544541741	1676544542016	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544541848	1676544542124	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544542102	1676544542376	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544542160	1676544542441	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544541646	1676544542471	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544542287	1676544542562	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544542346	1676544542622	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544542354	1676544542632	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544542645
+REQUEST		Past Session- Fetch the completed session information	1676544542466	1676544542740	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544542751	1676544543029	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544542144	1676544543056	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544542776	1676544543060	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544542996	1676544543335	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544543057	1676544543335	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544542646	1676544543615	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544543645
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544543426	1676544543710	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544543426	1676544543711	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544543552	1676544543840	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544543057	1676544543885	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544543740	1676544544015	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544544073	1676544544359	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544544167	1676544544446	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544543646	1676544544467	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544544292	1676544544569	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544544646
+REQUEST		Past Session- Fetch the completed session information	1676544544538	1676544544815	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544543990	1676544544817	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544544571	1676544544845	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544544740	1676544545013	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544544749	1676544545030	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544544878	1676544545154	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544545017	1676544545290	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544545125	1676544545400	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544544646	1676544545500	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544545646
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544545377	1676544545654	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544545442	1676544545816	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544545472	1676544545816	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544545563	1676544545839	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544545011	1676544545871	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544545623	1676544545898	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544545633	1676544546021	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544545741	1676544546094	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544546057	1676544546366	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544546061	1676544546372	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544546337	1676544546645	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544545646	1676544546646	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544546646
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544546337	1676544546649	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544546030	1676544546923	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544546616	1676544546924	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544546711	1676544547045	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544546711	1676544547046	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544546841	1676544547127	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544546886	1676544547202	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544547016	1676544547329	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544546646	1676544547608	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544547360	1676544547645	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544547646
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544547447	1676544547724	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544547468	1676544547743	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544547570	1676544547848	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544547818	1676544548092	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544547816	1676544548094	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544547846	1676544548124	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544548015	1676544548289	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544548155	1676544548431	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544547646	1676544548474	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544548291	1676544548565	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544548646
+USER	Contribution API	END	1676544548660
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544548400	1676544548675	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544548501	1676544548821	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544548840
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544548031	1676544548874	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544548817	1676544549096	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544548817	1676544549102	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544548872	1676544549151	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544549095	1676544549371	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544548646	1676544549475	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544549646
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544549367	1676544549650	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544549373	1676544549654	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544548899	1676544549758	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544549646	1676544549928	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544549646	1676544549928	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544549650	1676544549953	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544549022	1676544549985	OK	 
+USER	Contribution API	END	1676544550047
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544549924	1676544550201	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544549925	1676544550205	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544550128	1676544550414	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544549646	1676544550473	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544550203	1676544550476	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544550330	1676544550605	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544550645
+USER	Contribution API	END	1676544550850
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544550046	1676544550890	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544550609	1676544550890	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544550646	1676544550931	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544550725	1676544551005	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544550744	1676544551019	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544551093	1676544551368	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544551094	1676544551372	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544550646	1676544551480	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544551290	1676544551563	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544551646
+USER	Contribution API	END	1676544551677
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544551432	1676544551706	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544551475	1676544551752	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544551566	1676544551840	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544551125	1676544551985	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544551822	1676544552108	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544551875	1676544552157	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544552096	1676544552378	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544552152	1676544552430	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544551646	1676544552521	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544552646
+REQUEST		My Past Session- Fetch the completed session information	1676544552372	1676544552649	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544552476	1676544552753	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544552655	1676544552936	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544552102	1676544552937	OK	 
+USER	Contribution API	END	1676544552954
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544552759	1676544553036	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544552651	1676544553044	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544552929	1676544553207	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544552985	1676544553264	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544553202	1676544553480	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544552646	1676544553483	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544553206	1676544553486	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544553646
+REQUEST		My Past Session- Fetch the completed session information	1676544553415	1676544553703	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544553474	1676544553747	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544553476	1676544553751	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544552929	1676544553756	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544553606	1676544553890	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544554007
+REQUEST		Feedback Form- Fetch the completed session information	1676544553891	1676544554188	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544553891	1676544554188	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544554020	1676544554296	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544553646	1676544554485	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544554370	1676544554645	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544554646
+REQUEST		My Past Session- Fetch the completed session information	1676544554372	1676544554651	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544554707
+REQUEST		Past Session- Fetch the completed session information	1676544554481	1676544554762	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544553932	1676544554762	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544554564	1676544554840	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544554753	1676544555029	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544554985	1676544555260	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544555109	1676544555396	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544555158	1676544555439	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544554646	1676544555502	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544555646
+REQUEST		My Past Session- Fetch the completed session information	1676544555379	1676544555656	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544554841	1676544555657	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544555431	1676544555709	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544555522	1676544555814	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544555649	1676544555929	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544555754	1676544556031	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544556045
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544555938	1676544556225	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544556037	1676544556312	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544556208	1676544556485	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544555646	1676544556485	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544556265	1676544556543	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544556646
+USER	Contribution API	END	1676544556752
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544556481	1676544556759	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544556483	1676544556760	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544555937	1676544556763	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544556487	1676544556788	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544556704	1676544556990	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544556748	1676544557020	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544556757	1676544557032	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544557189	1676544557490	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544557189	1676544557490	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544556646	1676544557490	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544557297	1676544557571	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544557646
+USER	Contribution API	START	1676544557646
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544556891	1676544557765	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544557486	1676544557767	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544557652	1676544557930	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544557762	1676544558042	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544557763	1676544558050	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544558030	1676544558309	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544557646	1676544558467	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544558261	1676544558536	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544558645
+REQUEST		My Past Session- Fetch the completed session information	1676544558397	1676544558682	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544557840	1676544558690	OK	 
+USER	Contribution API	END	1676544558710
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544558440	1676544558722	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544558503	1676544558790	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544558657	1676544558935	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544558658	1676544559040	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544558815	1676544559107	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544559032	1676544559313	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544558646	1676544559491	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544559226	1676544559507	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544559313	1676544559589	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544559646
+USER	Contribution API	END	1676544559761
+REQUEST		Past Session- Fetch the completed session information	1676544559486	1676544559764	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544559486	1676544559765	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544558930	1676544559789	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544559544	1676544559822	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544559761	1676544560037	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544559764	1676544560046	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544559789	1676544560092	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544560033	1676544560333	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544560021	1676544560333	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544559646	1676544560626	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544560645
+REQUEST		My Past Session- Fetch the completed session information	1676544560491	1676544560837	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544560491	1676544560838	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544560491	1676544560838	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544560572	1676544560845	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544559991	1676544560905	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544560768	1676544561182	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544560766	1676544561182	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544561051	1676544561381	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544561043	1676544561381	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544561645
+REQUEST		My Past Session- Fetch the completed session information	1676544561310	1676544561657	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544560646	1676544561657	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544561724
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544561537	1676544561859	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544561468	1676544561867	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544560931	1676544561868	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544561690	1676544562068	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544561683	1676544562074	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544561791	1676544562076	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544562041	1676544562406	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544562108	1676544562490	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544562590
+REQUEST		Manage Slot- Fetch the completed session information	1676544561645	1676544562610	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544562646
+REQUEST		My Past Session- Fetch the completed session information	1676544562314	1676544562680	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544562824
+REQUEST		Past Session- Fetch the completed session information	1676544562492	1676544562882	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544562508	1676544562889	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544561936	1676544562896	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544562765	1676544563086	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544562790	1676544563087	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544562765	1676544563089	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544563047	1676544563429	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544563038	1676544563429	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544562646	1676544563645	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544563646
+REQUEST		My Past Session- Fetch the completed session information	1676544563334	1676544563701	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544563334	1676544563702	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544563839
+REQUEST		Past Session- Fetch the completed session information	1676544563627	1676544563918	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544563092	1676544563981	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544563838	1676544564113	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544563838	1676544564117	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544563906	1676544564192	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544564183	1676544564463	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544563646	1676544564465	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544564183	1676544564479	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544564646
+REQUEST		My Past Session- Fetch the completed session information	1676544564382	1676544564663	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544564382	1676544564668	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544563846	1676544564692	OK	 
+USER	Contribution API	END	1676544564861
+REQUEST		Past Session- Fetch the completed session information	1676544564658	1676544564933	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544564657	1676544564935	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544564867	1676544565142	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544564869	1676544565146	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544565069	1676544565350	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544565077	1676544565363	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544564646	1676544565463	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544565646
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544565407	1676544565680	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544565490	1676544565783	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544565611	1676544565883	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544565890
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544565075	1676544565905	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544565681	1676544565958	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544565883	1676544566156	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544565896	1676544566172	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544566088	1676544566374	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544566087	1676544566374	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544565646	1676544566463	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544566646
+USER	Contribution API	END	1676544566704
+REQUEST		My Past Session- Fetch the completed session information	1676544566430	1676544566706	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544566430	1676544566712	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544566646	1676544566927	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544566089	1676544566942	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544566702	1676544566976	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544566919	1676544567217	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544566982	1676544567277	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544567114	1676544567398	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544566646	1676544567475	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544567193	1676544567478	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544567646
+USER	Contribution API	END	1676544567669
+REQUEST		Past Session- Fetch the completed session information	1676544567465	1676544567738	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544567463	1676544567742	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544567480	1676544567761	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544567663	1676544567941	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544567118	1676544567945	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544567692	1676544567968	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544567933	1676544568211	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544568143	1676544568420	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544568147	1676544568424	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544567646	1676544568549	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544568351	1676544568623	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544568645
+REQUEST		My Past Session- Fetch the completed session information	1676544568364	1676544568651	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544568681
+REQUEST		Past Session- Fetch the completed session information	1676544568464	1676544568736	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544567936	1676544568793	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544568784	1676544569138	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544568884	1676544569157	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544568906	1676544569192	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544569157	1676544569430	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544569173	1676544569447	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544568646	1676544569503	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544569646
+REQUEST		My Past Session- Fetch the completed session information	1676544569374	1676544569649	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544569374	1676544569649	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544569713
+REQUEST		Past Session- Fetch the completed session information	1676544569463	1676544569737	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544568959	1676544569788	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544569707	1676544569981	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544569928	1676544570216	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544569943	1676544570218	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544569646	1676544570495	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544570217	1676544570513	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544570278	1676544570581	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544570646
+REQUEST		My Past Session- Fetch the completed session information	1676544570399	1676544570673	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544570476	1676544570751	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544570763
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544570479	1676544570765	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544569977	1676544570797	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544570739	1676544571014	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544570743	1676544571022	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544570946	1676544571227	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544570969	1676544571242	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544570646	1676544571468	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544571212	1676544571488	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544571625
+USER	Contribution API	START	1676544571645
+REQUEST		My Past Session- Fetch the completed session information	1676544571421	1676544571695	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544571425	1676544571702	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544570942	1676544571755	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544571550	1676544571852	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544571651	1676544571939	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544571737	1676544572008	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544571793	1676544572071	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544572158	1676544572431	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544571646	1676544572468	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544572193	1676544572477	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544572646
+USER	Contribution API	END	1676544572651
+REQUEST		My Past Session- Fetch the completed session information	1676544572431	1676544572703	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544572448	1676544572723	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544572504	1676544572790	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544572650	1676544572927	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544572139	1676544572988	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544572738	1676544573011	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544572789	1676544573068	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544573218	1676544573500	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544573217	1676544573500	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544572646	1676544573553	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544573646
+USER	Contribution API	END	1676544573766
+REQUEST		Past Session- Fetch the completed session information	1676544573496	1676544573779	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544573513	1676544573798	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544572981	1676544573814	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544573581	1676544573875	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544573674	1676544573948	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544573752	1676544574028	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544573798	1676544574071	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544574015	1676544574289	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544573646	1676544574506	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544574227	1676544574511	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544574243	1676544574517	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544574645
+USER	Contribution API	END	1676544574704
+REQUEST		Past Session- Fetch the completed session information	1676544574469	1676544574745	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544574488	1676544574763	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544574023	1676544574846	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544574696	1676544574972	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544574756	1676544575036	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544574852	1676544575153	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544575009	1676544575283	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544575072	1676544575351	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544574646	1676544575495	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544575645
+REQUEST		My Past Session- Fetch the completed session information	1676544575432	1676544575716	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544575724
+REQUEST		Past Session- Fetch the completed session information	1676544575468	1676544575743	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544575477	1676544575763	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544574939	1676544575775	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544575704	1676544575987	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544575791	1676544576079	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544575989	1676544576311	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544576012	1676544576348	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544576069	1676544576352	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544576646
+REQUEST		Manage Slot- Fetch the completed session information	1676544575645	1676544576753	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544576501	1676544576813	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544576501	1676544576815	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544576554	1676544576856	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544575928	1676544576860	OK	 
+USER	Contribution API	END	1676544576876
+REQUEST		Feedback Form- Fetch the completed session information	1676544576780	1676544577083	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544576814	1676544577090	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544576799	1676544577100	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544577029	1676544577306	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544577072	1676544577346	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544577518
+REQUEST		Manage Slot- Fetch the completed session information	1676544576646	1676544577564	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544577290	1676544577565	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544577646
+REQUEST		Past Session- Fetch the completed session information	1676544577507	1676544577784	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544576949	1676544577790	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544577512	1676544577792	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544577746	1676544578023	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544577764	1676544578040	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544577846	1676544578126	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544578037	1676544578315	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544578154	1676544578456	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544577646	1676544578477	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544578284	1676544578557	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544578352	1676544578628	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544578646
+USER	Contribution API	END	1676544578765
+REQUEST		Past Session- Fetch the completed session information	1676544578495	1676544578779	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544577973	1676544578791	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544578717	1676544578991	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544578743	1676544579017	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544578776	1676544579062	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544579080	1676544579366	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544578646	1676544579584	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544579312	1676544579604	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544579349	1676544579623	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544579353	1676544579630	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544579646
+USER	Contribution API	END	1676544579816
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544578988	1676544579861	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544579814	1676544580088	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544579754	1676544580088	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544579861	1676544580133	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544579856	1676544580152	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544580084	1676544580368	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544580091	1676544580368	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544579646	1676544580474	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544580307	1676544580583	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544580347	1676544580619	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544580646
+USER	Contribution API	END	1676544580793
+REQUEST		Past Session- Fetch the completed session information	1676544580565	1676544580837	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544580565	1676544580838	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544580101	1676544580940	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544580784	1676544581063	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544580790	1676544581063	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544581024	1676544581299	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544581127	1676544581406	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544580646	1676544581474	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544581315	1676544581594	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544581630
+USER	Contribution API	START	1676544581646
+REQUEST		My Past Session- Fetch the completed session information	1676544581456	1676544581784	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544581478	1676544581784	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544581557	1676544581831	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544581040	1676544581885	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544581779	1676544582064	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544581792	1676544582066	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544582017	1676544582291	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544582063	1676544582351	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544581646	1676544582553	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544582631
+USER	Contribution API	START	1676544582646
+REQUEST		My Past Session- Fetch the completed session information	1676544582367	1676544582654	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544582584	1676544582861	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544581991	1676544582861	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544582605	1676544582896	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544582623	1676544582897	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544582862	1676544583135	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544583089	1676544583391	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544583134	1676544583406	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544583152	1676544583445	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544582646	1676544583462	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544583621
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544583369	1676544583645	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544583646
+REQUEST		My Past Session- Fetch the completed session information	1676544583369	1676544583649	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544583475	1676544583752	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544583584	1676544583860	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544583089	1676544583938	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544583837	1676544584109	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544583940	1676544584215	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544584064	1676544584338	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544584064	1676544584338	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544583646	1676544584502	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544584300	1676544584576	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544584596
+USER	Contribution API	START	1676544584645
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544583839	1676544584670	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544584407	1676544584686	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544584474	1676544584757	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544584784	1676544585069	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544584784	1676544585087	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544584885	1676544585162	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544585067	1676544585342	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544585065	1676544585350	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544584646	1676544585478	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544585292	1676544585566	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544585351	1676544585638	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544585645
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544584832	1676544585694	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544585554	1676544585865	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544585898
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544585654	1676544585940	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544585861	1676544586137	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544585861	1676544586139	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544586135	1676544586411	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544585645	1676544586462	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544586646
+USER	Contribution API	START	1676544586645
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544586407	1676544586680	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544586392	1676544586695	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544586463	1676544586734	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544586446	1676544586737	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544585898	1676544586755	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544586650	1676544586927	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544586753	1676544587029	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544586939	1676544587211	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544587110	1676544587381	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544586646	1676544587461	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544587216	1676544587488	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544587338	1676544587614	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544587338	1676544587615	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544587645
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544586861	1676544587686	OK	 
+USER	Contribution API	END	1676544587687
+REQUEST		Past Session- Fetch the completed session information	1676544587503	1676544587788	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544587577	1676544587852	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544587670	1676544587944	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544587758	1676544588035	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544588069	1676544588348	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544588163	1676544588437	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544587646	1676544588511	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544588343	1676544588619	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544588351	1676544588635	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544588639
+USER	Contribution API	START	1676544588645
+REQUEST		Past Session- Fetch the completed session information	1676544588478	1676544588755	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544588567	1676544588840	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544588087	1676544588907	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544588694	1676544588966	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544588866	1676544589142	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544589137	1676544589416	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544589139	1676544589416	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544588646	1676544589463	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544589646
+USER	Contribution API	END	1676544589681
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544589412	1676544589687	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544589463	1676544589735	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544588941	1676544589766	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544589696	1676544589995	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544589734	1676544590007	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544589756	1676544590029	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544589738	1676544590029	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544590030	1676544590306	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544590212	1676544590487	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544589646	1676544590498	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544590616
+USER	Contribution API	START	1676544590646
+REQUEST		My Past Session- Fetch the completed session information	1676544590381	1676544590710	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544590462	1676544590734	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544590489	1676544590871	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544589928	1676544590872	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544590615	1676544591036	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544590686	1676544591036	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544590789	1676544591154	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544590945	1676544591218	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544591035	1676544591311	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544591621
+USER	Contribution API	START	1676544591646
+REQUEST		Manage Slot- Fetch the completed session information	1676544590646	1676544591703	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544591348	1676544591704	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544591438	1676544591766	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544590852	1676544591769	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544591512	1676544591801	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544591636	1676544591985	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544591756	1676544592035	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544591907	1676544592209	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544591967	1676544592242	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544592143	1676544592421	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544591646	1676544592534	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544592645
+USER	Contribution API	END	1676544592688
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544592417	1676544592691	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544592417	1676544592691	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544591841	1676544592703	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544592464	1676544592737	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544592736	1676544593008	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544592767	1676544593053	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544592996	1676544593305	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544593008	1676544593305	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544593030	1676544593305	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544593307	1676544593583	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544592646	1676544593584	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544593646
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544593487	1676544593762	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544593499	1676544593780	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544593872
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544593030	1676544593891	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544593711	1676544593983	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544593734	1676544594008	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544593872	1676544594151	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544594037	1676544594310	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544594155	1676544594445	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544593646	1676544594472	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544594219	1676544594492	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544594312	1676544594588	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544594646
+USER	Contribution API	END	1676544594767
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544594705	1676544594983	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544594703	1676544594998	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544594036	1676544595008	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544594770	1676544595045	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544594801	1676544595089	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544595036	1676544595314	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544594646	1676544595497	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544595210	1676544595513	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544595242	1676544595514	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544595646
+USER	Contribution API	END	1676544595692
+REQUEST		My Past Session- Fetch the completed session information	1676544595421	1676544595697	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544595535	1676544595813	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544594985	1676544595813	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544595692	1676544595968	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544595703	1676544595978	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544595737	1676544596011	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544596008	1676544596279	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544596054	1676544596339	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544595646	1676544596549	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544596306	1676544596578	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544596306	1676544596580	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544596646
+USER	Contribution API	END	1676544596763
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544596584	1676544596861	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544596584	1676544596861	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544596781	1676544597063	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544596306	1676544597125	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544596892	1676544597183	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544597008	1676544597281	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544597152	1676544597449	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544596646	1676544597458	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544597494
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544597311	1676544597586	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544597645
+REQUEST		My Past Session- Fetch the completed session information	1676544597445	1676544597735	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544597472	1676544597748	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544596984	1676544597825	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544597588	1676544597865	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544598008	1676544598282	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544597999	1676544598293	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544598045	1676544598319	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544598089	1676544598378	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544597646	1676544598497	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544598515
+REQUEST		My Past Session- Fetch the completed session information	1676544598315	1676544598592	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544598646
+REQUEST		Past Session- Fetch the completed session information	1676544598498	1676544598779	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544598514	1676544598814	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544597983	1676544598838	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544598697	1676544598971	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544598814	1676544599087	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544598813	1676544599091	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544598978	1676544599284	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544599011	1676544599284	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544599280	1676544599555	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544599579
+REQUEST		Manage Slot- Fetch the completed session information	1676544598646	1676544599588	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544599340	1676544599626	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544599645
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544599580	1676544599859	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544599550	1676544599859	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544598968	1676544599859	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544599861	1676544600138	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544600063	1676544600346	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544600126	1676544600427	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544599645	1676544600472	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544600183	1676544600475	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544600281	1676544600554	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544600587
+USER	Contribution API	START	1676544600645
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544600450	1676544600728	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544600458	1676544600731	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544599861	1676544600764	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544600736	1676544601022	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544600749	1676544601024	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544600826	1676544601098	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544600646	1676544601466	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544601283	1676544601557	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544601294	1676544601588	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544601320	1676544601593	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544601646
+REQUEST		My Past Session- Fetch the completed session information	1676544601378	1676544601666	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544600866	1676544601734	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544601498	1676544601773	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544601815
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544601593	1676544601871	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544601779	1676544602060	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544601838	1676544602115	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544602087	1676544602361	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544602091	1676544602370	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544601646	1676544602501	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544602284	1676544602558	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544602285	1676544602558	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544602628
+USER	Contribution API	START	1676544602646
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544602556	1676544602828	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544601972	1676544602829	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544602589	1676544602891	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544602859	1676544603135	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544602859	1676544603135	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544603139	1676544603416	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544602646	1676544603464	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544603346	1676544603629	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544603646
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544602859	1676544603722	OK	 
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544603427	1676544603726	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544603729
+REQUEST		Past Session- Fetch the completed session information	1676544603472	1676544603749	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544603475	1676544603766	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544603554	1676544603828	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544603732	1676544604003	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544603765	1676544604041	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544604024	1676544604300	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544604098	1676544604371	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544603646	1676544604547	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544604595
+USER	Contribution API	START	1676544604646
+REQUEST		Past Session- Fetch the completed session information	1676544604467	1676544604741	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544604557	1676544604831	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544604022	1676544604854	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544604588	1676544604881	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544604667	1676544604955	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544604735	1676544605012	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544604774	1676544605050	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544605061	1676544605365	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544605116	1676544605393	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544604646	1676544605467	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544605560
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544605361	1676544605636	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544605371	1676544605648	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544605646
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544604871	1676544605833	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544605501	1676544605833	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544605559	1676544605834	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544605829	1676544606182	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544605891	1676544606195	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544606136	1676544606452	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544606136	1676544606453	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544606646
+REQUEST		My Past Session- Fetch the completed session information	1676544606417	1676544606695	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544606767
+REQUEST		Manage Slot- Fetch the completed session information	1676544605646	1676544606858	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544605829	1676544606858	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544606465	1676544606858	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544606630	1676544606926	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544606723	1676544606995	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544606726	1676544607027	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544606749	1676544607133	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544607004	1676544607275	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544607042	1676544607317	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544606646	1676544607479	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544607300	1676544607576	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544607646
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544607371	1676544607651	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544606828	1676544607689	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544607548	1676544607831	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544607832
+REQUEST		Feedback Form- Fetch the completed session information	1676544607741	1676544608015	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544607854	1676544608141	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544607882	1676544608176	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544608012	1676544608288	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544608050	1676544608329	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544607646	1676544608461	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544608637
+USER	Contribution API	START	1676544608645
+REQUEST		My Past Session- Fetch the completed session information	1676544608366	1676544608648	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544608393	1676544608672	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544608468	1676544608742	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544607956	1676544608777	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544608649	1676544608925	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544608834	1676544609177	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544608834	1676544609177	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544609182	1676544609456	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544608645	1676544609466	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544609196	1676544609499	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544609646
+REQUEST		My Past Session- Fetch the completed session information	1676544609453	1676544609725	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544609453	1676544609727	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544608835	1676544609731	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544609696	1676544609973	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544610028
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544609859	1676544610132	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544609859	1676544610134	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544609858	1676544610136	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544609995	1676544610268	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544610133	1676544610409	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544609646	1676544610474	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544610275	1676544610545	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544610317	1676544610593	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544610646
+USER	Contribution API	END	1676544610653
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544609926	1676544610753	OK	 
+REQUEST		Past Session- Fetch the completed session information	1676544610479	1676544610757	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544610577	1676544610851	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544610689	1676544610962	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544610832	1676544611113	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544611016	1676544611289	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544611142	1676544611426	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544610646	1676544611481	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544611288	1676544611565	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544611329	1676544611606	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544611646
+USER	Contribution API	END	1676544611673
+REQUEST		Past Session- Fetch the completed session information	1676544611461	1676544611734	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544611648	1676544611931	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544611176	1676544611998	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544611742	1676544612018	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544611777	1676544612065	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544612178	1676544612461	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544612178	1676544612464	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544611646	1676544612482	KO	status.find.is(200), but actually found 404
+USER	Contribution API	START	1676544612646
+USER	Contribution API	END	1676544612728
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544612457	1676544612733	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544612467	1676544612742	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544611926	1676544612745	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544612500	1676544612802	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544612725	1676544612998	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544612732	1676544613004	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544613136	1676544613414	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544613135	1676544613414	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544613132	1676544613414	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Slot- Fetch the completed session information	1676544612646	1676544613507	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544613268	1676544613542	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544613594
+REQUEST		My Past Session- Fetch the completed session information	1676544613410	1676544613689	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544613474	1676544613749	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544612973	1676544613795	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544613546	1676544613817	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544613753	1676544614027	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544613758	1676544614035	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544613962	1676544614293	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544614113	1676544614399	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544614289	1676544614563	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544614566
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544613852	1676544614672	OK	 
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544614426	1676544614711	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544614481	1676544614759	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544614607	1676544614882	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544614734	1676544615008	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544614999	1676544615292	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544615019	1676544615293	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544615066	1676544615355	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544615734
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544615461	1676544615741	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544615465	1676544615749	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544615483	1676544615759	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544614931	1676544615771	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544615742	1676544616015	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544615745	1676544616024	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544615802	1676544616105	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544616004	1676544616346	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544616543
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544616415	1676544616687	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544616415	1676544616687	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544616415	1676544616688	KO	status.find.is(200), but actually found 404
+REQUEST		Past Session- Fetch the completed session information	1676544616507	1676544616794	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544615998	1676544616915	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544616689	1676544616965	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544616750	1676544617024	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544616795	1676544617071	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544617028	1676544617300	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544617035	1676544617313	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544617293	1676544617565	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544616817	1676544617651	OK	 
+REQUEST		My Past Session- Fetch the completed session information	1676544617399	1676544617682	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544617712
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544617564	1676544617837	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544617672	1676544617949	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544617759	1676544618039	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544618008	1676544618281	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544618293	1676544618567	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544618292	1676544618587	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544618355	1676544618644	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544617883	1676544618731	OK	 
+USER	Contribution API	END	1676544618742
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544618750	1676544619035	KO	status.find.is(200), but actually found 404
+REQUEST		Feedback Form- Fetch the completed session information	1676544618760	1676544619037	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544618771	1676544619053	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544619016	1676544619315	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544619024	1676544619315	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544619688
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544619346	1676544619691	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544619688	1676544619962	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544619689	1676544619963	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544619105	1676544619968	OK	 
+REQUEST		Feedback Form- Fetch the completed session information	1676544619795	1676544620084	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544619915	1676544620236	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544620025	1676544620299	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544620072	1676544620349	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544620567
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544620301	1676544620575	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544620313	1676544620590	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544619965	1676544620830	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544620651	1676544620977	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544620682	1676544621053	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544620949	1676544621253	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544621039	1676544621322	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544621282	1676544621598	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544621645
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544620837	1676544621809	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544621567	1676544621870	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544621587	1676544621890	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544621731	1676544622083	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544622037	1676544622319	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544622054	1676544622336	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544622692
+REQUEST		My Past Session- Fetch the completed session information	1676544622315	1676544622694	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544622315	1676544622694	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544622035	1676544622977	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544622963	1676544623240	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544622969	1676544623271	KO	status.find.is(200), but actually found 404
+REQUEST		Manage session- Fetch the user's knolx details	1676544623084	1676544623374	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544623576
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544623237	1676544623579	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544623300	1676544623579	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544623349	1676544623637	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544622963	1676544623864	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544623590	1676544623866	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544623830	1676544624109	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544623977	1676544624257	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544624253	1676544624537	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544624322	1676544624601	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544624598	1676544624870	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544624053	1676544624883	OK	 
+USER	Contribution API	END	1676544624891
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544624809	1676544625088	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544625084	1676544625363	KO	status.find.is(200), but actually found 404
+REQUEST		My Past Session- Fetch the completed session information	1676544625320	1676544625646	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544625336	1676544625646	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544625695
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544624870	1676544625698	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544625694	1676544625970	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544625978	1676544626264	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544626272	1676544626584	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544626638
+REQUEST		My Past Session- Fetch the completed session information	1676544626374	1676544626664	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544626579	1676544626869	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544626579	1676544626869	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544626865	1676544627140	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544626241	1676544627145	OK	 
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544627109	1676544627404	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544627257	1676544627530	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544627538
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544626866	1676544627815	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544627601	1676544627879	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544627884	1676544628165	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544628088	1676544628363	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544628363	1676544628639	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544628647
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544627870	1676544628691	OK	 
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544628646	1676544628940	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544628699	1676544628973	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544629265	1676544629555	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544628970	1676544629862	OK	 
+USER	Contribution API	END	1676544629870
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544629585	1676544629888	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[all Users]- Fetch the completed session information	1676544629664	1676544629952	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544630141	1676544630416	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544630145	1676544630417	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544630531
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544630404	1676544630783	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544629869	1676544630784	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544630815	1676544631111	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544631166	1676544631447	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544631640
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544631363	1676544631643	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544630879	1676544631697	OK	 
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544631692	1676544631963	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544631973	1676544632319	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544632555	1676544632866	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544631941	1676544632867	OK	 
+USER	Contribution API	END	1676544632889
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544632862	1676544633139	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544633417	1676544633753	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544633418	1676544633753	KO	status.find.is(200), but actually found 404
+REQUEST		Book a Session[Studio]- Fetch the completed session information	1676544632953	1676544633779	OK	 
+USER	Contribution API	END	1676544633784
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544633784	1676544634115	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544634112	1676544634451	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544634645
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544634447	1676544634731	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544634697	1676544634975	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544634963	1676544635289	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544635320	1676544635857	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544635867
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544635867	1676544636143	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544636139	1676544636734	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544636754
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544636753	1676544637143	KO	status.find.is(200), but actually found 404
+REQUEST		Manage Upcoming session- Fetch the completed session information	1676544636779	1676544637143	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544637116	1676544637416	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544637732
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544637452	1676544637841	KO	status.find.is(200), but actually found 404
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544637976	1676544638372	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544638289	1676544638657	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544638857
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544639144	1676544639489	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544639734	1676544640102	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544640144
+REQUEST		manage upcoming session- Fetch the upcoming session information	1676544640144	1676544640432	KO	status.find.is(200), but actually found 404
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544640417	1676544640693	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544640842
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544641373	1676544641653	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544641658
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544642489	1676544642867	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544643103
+USER	Contribution API	END	1676544643694
+REQUEST		My Upcoming Session- Fetch the completed session information	1676544643432	1676544643719	KO	status.find.is(200), but actually found 404
+USER	Contribution API	END	1676544644654
+USER	Contribution API	END	1676544645868
+USER	Contribution API	END	1676544646720

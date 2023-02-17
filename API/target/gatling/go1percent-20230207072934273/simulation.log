@@ -1,0 +1,801 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1675754974273	 	3.5.1
+USER	Leaderboard API	START	1675754975408
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754975433	1675754976306	OK	 
+USER	Leaderboard API	START	1675754976398
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754976399	1675754977244	OK	 
+USER	Leaderboard API	START	1675754977399
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754977401	1675754978239	OK	 
+USER	Leaderboard API	START	1675754978394
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754978394	1675754979260	OK	 
+USER	Leaderboard API	START	1675754979394
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754979395	1675754980230	OK	 
+USER	Leaderboard API	START	1675754980394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754979320	1675754980620	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754980394	1675754981262	OK	 
+USER	Leaderboard API	START	1675754981393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754980246	1675754981564	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754981394	1675754982239	OK	 
+USER	Leaderboard API	START	1675754982393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754981240	1675754982513	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754982394	1675754983243	OK	 
+USER	Leaderboard API	START	1675754983394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754982261	1675754983585	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754983621	1675754984192	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754983395	1675754984255	OK	 
+USER	Leaderboard API	START	1675754984394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754983231	1675754984521	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754984565	1675754985137	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754984394	1675754985227	OK	 
+USER	Leaderboard API	START	1675754985395
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754984263	1675754985564	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754985514	1675754986079	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754985396	1675754986234	OK	 
+USER	Leaderboard API	START	1675754986393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754985240	1675754986526	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754986587	1675754987162	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754986394	1675754987220	OK	 
+USER	Leaderboard API	START	1675754987394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754987193	1675754987478	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754986244	1675754987569	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754987522	1675754988131	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754987395	1675754988242	OK	 
+USER	Leaderboard API	START	1675754988393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754988138	1675754988422	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754987256	1675754988640	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754988565	1675754989134	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754988394	1675754989239	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754989080	1675754989369	OK	 
+USER	Leaderboard API	START	1675754989394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754988228	1675754989484	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754989527	1675754990093	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754989394	1675754990250	OK	 
+USER	Leaderboard API	START	1675754990394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754990163	1675754990452	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754989235	1675754990517	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754990570	1675754991130	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754990394	1675754991239	OK	 
+USER	Leaderboard API	START	1675754991394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754991132	1675754991417	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754990221	1675754991495	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754991641	1675754992214	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754991394	1675754992220	OK	 
+USER	Leaderboard API	START	1675754992394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754992135	1675754992422	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754991242	1675754992514	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754992485	1675754993080	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754992395	1675754993257	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754993093	1675754993382	OK	 
+USER	Leaderboard API	START	1675754993394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754992240	1675754993543	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754993518	1675754994077	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754993394	1675754994248	OK	 
+USER	Leaderboard API	START	1675754994394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754994131	1675754994421	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754990479	1675754994488	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754993251	1675754994540	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754994496	1675754995072	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754994394	1675754995225	OK	 
+USER	Leaderboard API	START	1675754995393
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754991423	1675754995406	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754995215	1675754995506	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754994240	1675754995643	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754995516	1675754996090	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754995394	1675754996221	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754992370	1675754996350	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754996081	1675754996363	OK	 
+USER	Leaderboard API	START	1675754996393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754995222	1675754996489	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754996544	1675754997114	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754996394	1675754997263	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754997078	1675754997360	OK	 
+USER	Leaderboard API	START	1675754997394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754993453	1675754997407	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754996258	1675754997605	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675754997489	1675754997820	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754997542	1675754998117	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754997394	1675754998216	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754998073	1675754998383	OK	 
+USER	Leaderboard API	START	1675754998393
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754994418	1675754998409	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754997249	1675754998597	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675754998407	1675754998701	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754998644	1675754999211	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754998393	1675754999251	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754995423	1675754999371	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675754999091	1675754999386	OK	 
+USER	Leaderboard API	START	1675754999393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754998225	1675754999460	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675754999351	1675754999657	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675754999490	1675755000046	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675754999394	1675755000232	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754996383	1675755000341	OK	 
+USER	Leaderboard API	START	1675755000394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755000115	1675755000416	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675754999222	1675755000510	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755000408	1675755000720	OK	 
+USER	Leaderboard API	END	1675755000825
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755000606	1675755001190	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755000394	1675755001238	OK	 
+USER	Leaderboard API	START	1675755001394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755001118	1675755001407	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754997422	1675755001413	OK	 
+USER	Leaderboard API	END	1675755001703
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755001410	1675755001710	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755000264	1675755001868	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755001598	1675755002172	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755001394	1675755002234	OK	 
+USER	Leaderboard API	START	1675755002393
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754998507	1675755002432	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755002212	1675755002496	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755001217	1675755002572	OK	 
+USER	Leaderboard API	END	1675755002659
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755002372	1675755002672	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755002461	1675755003036	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755002393	1675755003261	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675754999364	1675755003261	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755003046	1675755003355	OK	 
+USER	Leaderboard API	START	1675755003394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755002252	1675755003551	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755003342	1675755003635	OK	 
+USER	Leaderboard API	END	1675755003721
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755003511	1675755004073	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755003394	1675755004232	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755000361	1675755004297	OK	 
+USER	Leaderboard API	START	1675755004394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755004192	1675755004488	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755003233	1675755004516	OK	 
+USER	Leaderboard API	END	1675755004712
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755004414	1675755004734	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755004394	1675755005252	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755001384	1675755005358	OK	 
+USER	Leaderboard API	START	1675755005393
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755004869	1675755005435	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755005173	1675755005461	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755004239	1675755005549	OK	 
+USER	Leaderboard API	END	1675755005673
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755005433	1675755005743	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755005573	1675755006130	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755005394	1675755006258	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755006037	1675755006321	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755002387	1675755006338	OK	 
+USER	Leaderboard API	START	1675755006394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755005235	1675755006500	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755006263	1675755006555	OK	 
+USER	Leaderboard API	END	1675755006636
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755006552	1675755007133	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755006394	1675755007243	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755003417	1675755007338	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755007074	1675755007366	OK	 
+USER	Leaderboard API	START	1675755007393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755006262	1675755007560	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755007298	1675755007601	OK	 
+USER	Leaderboard API	END	1675755007736
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755007517	1675755008089	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755007393	1675755008227	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755004408	1675755008336	OK	 
+USER	Leaderboard API	START	1675755008394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755007233	1675755008581	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755008359	1675755008668	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755008436	1675755008727	OK	 
+USER	Leaderboard API	END	1675755008744
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755008550	1675755009118	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755008394	1675755009218	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755005497	1675755009372	OK	 
+USER	Leaderboard API	START	1675755009394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755009131	1675755009410	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755008253	1675755009542	OK	 
+USER	Leaderboard API	END	1675755009556
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755009339	1675755009658	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755009500	1675755010059	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755009394	1675755010255	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755006356	1675755010346	OK	 
+USER	Leaderboard API	START	1675755010394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755010134	1675755010423	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755009258	1675755010568	OK	 
+USER	Leaderboard API	END	1675755010602
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755010339	1675755010651	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755010560	1675755011133	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755010394	1675755011233	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755011090	1675755011378	OK	 
+USER	Leaderboard API	START	1675755011394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755007489	1675755011488	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755010244	1675755011559	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755011337	1675755011637	OK	 
+USER	Leaderboard API	END	1675755011669
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755011581	1675755012157	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755011394	1675755012260	OK	 
+USER	Leaderboard API	START	1675755012393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755012119	1675755012408	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755011228	1675755012488	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755008462	1675755012502	OK	 
+USER	Leaderboard API	END	1675755012659
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755012373	1675755012669	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755012543	1675755013118	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755009322	1675755013165	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755012394	1675755013256	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755013060	1675755013347	OK	 
+USER	Leaderboard API	START	1675755013393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755012219	1675755013479	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755013347	1675755013649	OK	 
+USER	Leaderboard API	END	1675755013652
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755013569	1675755014142	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755013394	1675755014257	OK	 
+USER	Leaderboard API	START	1675755014394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755014134	1675755014422	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755013256	1675755014532	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755010367	1675755014535	OK	 
+USER	Leaderboard API	END	1675755014638
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755014489	1675755014834	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755014560	1675755015130	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755014394	1675755015253	OK	 
+USER	Leaderboard API	START	1675755015394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755015157	1675755015444	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755014234	1675755015542	OK	 
+USER	Leaderboard API	END	1675755015669
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755015503	1675755015799	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755015489	1675755016044	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755015394	1675755016232	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755012411	1675755016293	OK	 
+USER	Leaderboard API	START	1675755016394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755016119	1675755016427	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755016166	1675755016469	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755015261	1675755016540	OK	 
+USER	Leaderboard API	END	1675755016651
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755011728	1675755016684	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755016480	1675755017030	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755016394	1675755017226	OK	 
+USER	Leaderboard API	START	1675755017393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755017143	1675755017436	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755013424	1675755017465	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755016257	1675755017547	OK	 
+USER	Leaderboard API	END	1675755017835
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755017536	1675755017849	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755017533	1675755018135	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755017394	1675755018220	OK	 
+USER	Leaderboard API	START	1675755018394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755018131	1675755018439	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755017257	1675755018558	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755014379	1675755018770	OK	 
+USER	Leaderboard API	END	1675755018800
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755018543	1675755019097	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755018394	1675755019218	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755019045	1675755019335	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755015408	1675755019372	OK	 
+USER	Leaderboard API	START	1675755019394
+USER	Leaderboard API	END	1675755019470
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755018254	1675755019547	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755019294	1675755019587	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755019684	1675755019985	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755019541	1675755020099	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755019394	1675755020251	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755016348	1675755020283	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755020031	1675755020315	OK	 
+USER	Leaderboard API	START	1675755020394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755019233	1675755020501	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755020465	1675755020779	OK	 
+USER	Leaderboard API	END	1675755020849
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755020548	1675755021124	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755017423	1675755021380	OK	 
+USER	Leaderboard API	START	1675755021394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755021136	1675755021425	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755020226	1675755021510	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755021771	1675755022067	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755021559	1675755022139	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755021394	1675755022241	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755020394	1675755022267	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755022098	1675755022380	OK	 
+USER	Leaderboard API	START	1675755022394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755018445	1675755022401	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755021220	1675755022488	OK	 
+USER	Leaderboard API	END	1675755022588
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755022372	1675755022687	OK	 
+USER	Leaderboard API	END	1675755022986
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755022547	1675755023158	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755022394	1675755023254	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755023100	1675755023381	OK	 
+USER	Leaderboard API	START	1675755023394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755022218	1675755023462	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755023284	1675755023577	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755019428	1675755023653	OK	 
+USER	Leaderboard API	END	1675755023780
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755023502	1675755024057	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755023394	1675755024255	OK	 
+USER	Leaderboard API	START	1675755024394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755024125	1675755024420	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755023251	1675755024520	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755024381	1675755024708	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755020437	1675755024735	OK	 
+USER	Leaderboard API	END	1675755025068
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755024511	1675755025088	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755024394	1675755025228	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755021439	1675755025369	OK	 
+USER	Leaderboard API	START	1675755025393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755025140	1675755025429	OK	 
+USER	Leaderboard API	END	1675755025688
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755025402	1675755025708	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755025488	1675755026040	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755022335	1675755026209	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755025393	1675755026219	OK	 
+USER	Leaderboard API	START	1675755026394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755026158	1675755026455	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755025242	1675755026531	OK	 
+USER	Leaderboard API	END	1675755026578
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755025268	1675755026581	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755026654	1675755026948	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755026463	1675755027015	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755026394	1675755027234	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755023316	1675755027261	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755027058	1675755027343	OK	 
+USER	Leaderboard API	START	1675755027393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755026255	1675755027542	OK	 
+USER	Leaderboard API	END	1675755027709
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755027736	1675755028045	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755027521	1675755028103	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755027394	1675755028279	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755028089	1675755028377	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755024426	1675755028394	OK	 
+USER	Leaderboard API	START	1675755028394
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755028370	1675755028673	OK	 
+USER	Leaderboard API	END	1675755028709
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755027255	1675755028732	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755028394	1675755029238	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755025381	1675755029305	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755029041	1675755029321	OK	 
+USER	Leaderboard API	START	1675755029393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755028228	1675755029498	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755029209	1675755029514	OK	 
+USER	Leaderboard API	END	1675755029949
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755029532	1675755030095	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755029582	1675755030150	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755029394	1675755030242	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755026382	1675755030271	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755030016	1675755030297	OK	 
+USER	Leaderboard API	START	1675755030393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755029220	1675755030474	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755030262	1675755030551	OK	 
+USER	Leaderboard API	END	1675755031046
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755030543	1675755031132	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755030394	1675755031259	OK	 
+USER	Leaderboard API	START	1675755031394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755027421	1675755031405	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755031104	1675755031407	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755030235	1675755031511	OK	 
+USER	Leaderboard API	END	1675755031674
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755031394	1675755031694	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755031394	1675755032249	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755031733	1675755032306	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755028429	1675755032357	OK	 
+USER	Leaderboard API	START	1675755032394
+USER	Leaderboard API	END	1675755032515
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755031280	1675755032587	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755032306	1675755032607	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755032498	1675755033067	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755032394	1675755033240	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755029456	1675755033346	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755033095	1675755033384	OK	 
+USER	Leaderboard API	START	1675755033394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755033151	1675755033442	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755032238	1675755033503	OK	 
+USER	Leaderboard API	END	1675755033552
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755033272	1675755033559	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755033475	1675755034033	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755030344	1675755034241	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755033394	1675755034242	OK	 
+USER	Leaderboard API	START	1675755034393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755034133	1675755034424	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755033243	1675755034545	OK	 
+USER	Leaderboard API	END	1675755034695
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755034405	1675755034776	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755034512	1675755035109	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755034393	1675755035219	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755031378	1675755035280	OK	 
+USER	Leaderboard API	START	1675755035394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755035307	1675755035607	OK	 
+USER	Leaderboard API	END	1675755035608
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755034259	1675755035642	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755035357	1675755035658	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755035394	1675755036235	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755032322	1675755036302	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755036068	1675755036354	OK	 
+USER	Leaderboard API	START	1675755036394
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755035588	1675755036538	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755035249	1675755036544	OK	 
+USER	Leaderboard API	END	1675755036561
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755036346	1675755036661	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755036504	1675755037072	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755033298	1675755037255	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755036395	1675755037274	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755037033	1675755037336	OK	 
+USER	Leaderboard API	START	1675755037394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755036241	1675755037552	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755037242	1675755037561	OK	 
+USER	Leaderboard API	END	1675755037778
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755037546	1675755038172	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755037394	1675755038246	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755038110	1675755038393	OK	 
+USER	Leaderboard API	START	1675755038393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755037243	1675755038549	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755038281	1675755038570	OK	 
+USER	Leaderboard API	END	1675755038659
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755038643	1675755039222	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755038394	1675755039246	OK	 
+USER	Leaderboard API	START	1675755039393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755038220	1675755039493	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755034407	1675755039530	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755039303	1675755039592	OK	 
+USER	Leaderboard API	END	1675755039662
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755039539	1675755039831	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755039544	1675755040118	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755039394	1675755040251	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755036384	1675755040357	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755040072	1675755040360	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755036443	1675755040385	OK	 
+USER	Leaderboard API	START	1675755040394
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755040256	1675755040561	OK	 
+USER	Leaderboard API	END	1675755040562
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755039236	1675755040565	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755040553	1675755041145	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755040394	1675755041243	OK	 
+USER	Leaderboard API	START	1675755041393
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755037425	1675755041415	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755041172	1675755041459	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755040275	1675755041570	OK	 
+USER	Leaderboard API	END	1675755041571
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755041550	1675755042120	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755041394	1675755042281	OK	 
+USER	Leaderboard API	START	1675755042394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755042223	1675755042512	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755041247	1675755042528	OK	 
+USER	Leaderboard API	END	1675755042593
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755038608	1675755042618	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755042530	1675755042831	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755042494	1675755043067	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755042394	1675755043237	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755039355	1675755043300	OK	 
+USER	Leaderboard API	START	1675755043394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755043119	1675755043419	OK	 
+USER	Leaderboard API	END	1675755043562
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755042247	1675755043582	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755043386	1675755043692	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755043358	1675755043692	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755043566	1675755044144	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755043394	1675755044245	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755040337	1675755044323	OK	 
+USER	Leaderboard API	START	1675755044393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755044146	1675755044440	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755043252	1675755044572	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755044416	1675755044761	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755044571	1675755045155	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755044394	1675755045223	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755041393	1675755045302	OK	 
+USER	Leaderboard API	START	1675755045394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755045121	1675755045406	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755044244	1675755045549	OK	 
+USER	Leaderboard API	END	1675755045832
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755045619	1675755045925	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755045529	1675755046093	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755045394	1675755046236	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755046067	1675755046350	OK	 
+USER	Leaderboard API	START	1675755046394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755045282	1675755046590	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755046301	1675755046597	OK	 
+USER	Leaderboard API	END	1675755046693
+USER	Leaderboard API	END	1675755046693
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755046582	1675755047153	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755046394	1675755047228	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755043361	1675755047286	OK	 
+USER	Leaderboard API	START	1675755047393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755047145	1675755047430	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755046237	1675755047517	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755047323	1675755047609	OK	 
+USER	Leaderboard API	END	1675755047762
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755047573	1675755048135	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755047393	1675755048242	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755044460	1675755048390	OK	 
+USER	Leaderboard API	START	1675755048394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755048156	1675755048452	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755047246	1675755048524	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755048303	1675755048604	OK	 
+USER	Leaderboard API	END	1675755048926
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755048550	1675755049124	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755048394	1675755049259	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755049094	1675755049380	OK	 
+USER	Leaderboard API	START	1675755049393
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755048224	1675755049513	OK	 
+USER	Leaderboard API	END	1675755049598
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755045513	1675755049822	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755049590	1675755050180	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755049394	1675755050243	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755046420	1675755050387	OK	 
+USER	Leaderboard API	START	1675755050393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755050154	1675755050451	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755049236	1675755050486	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755042832	1675755050523	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755050287	1675755050582	OK	 
+USER	Leaderboard API	END	1675755050610
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755050518	1675755051080	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755050393	1675755051262	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755047440	1675755051365	OK	 
+USER	Leaderboard API	START	1675755051393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755051136	1675755051429	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755050229	1675755051497	OK	 
+USER	Leaderboard API	END	1675755051605
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755051391	1675755051691	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755051524	1675755052093	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755051393	1675755052255	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755048406	1675755052374	OK	 
+USER	Leaderboard API	START	1675755052394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755052125	1675755052410	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755051243	1675755052528	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755052513	1675755053073	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755052823	1675755053121	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755049351	1675755053200	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755052394	1675755053278	OK	 
+USER	Leaderboard API	START	1675755053394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755053182	1675755053475	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755052260	1675755053582	OK	 
+USER	Leaderboard API	END	1675755053583
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755053388	1675755053688	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755053524	1675755053838	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755053487	1675755054041	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755053394	1675755054248	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755054080	1675755054380	OK	 
+USER	Leaderboard API	START	1675755054394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755050431	1675755054425	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755053244	1675755054536	OK	 
+USER	Leaderboard API	END	1675755054692
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755054366	1675755054700	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755054498	1675755055083	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755054394	1675755055235	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755051453	1675755055382	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755055093	1675755055382	OK	 
+USER	Leaderboard API	START	1675755055394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755054262	1675755055649	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755055375	1675755055700	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755055529	1675755056091	OK	 
+USER	Leaderboard API	END	1675755056121
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755055394	1675755056231	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755056073	1675755056361	OK	 
+USER	Leaderboard API	START	1675755056394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755052380	1675755056423	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755056201	1675755056497	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755055256	1675755056576	OK	 
+USER	Leaderboard API	END	1675755056689
+USER	Leaderboard API	END	1675755056839
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755056582	1675755057161	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755056394	1675755057242	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755057041	1675755057332	OK	 
+USER	Leaderboard API	START	1675755057394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755053452	1675755057442	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755056279	1675755057607	OK	 
+USER	Leaderboard API	END	1675755057701
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755057426	1675755057729	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755057537	1675755058133	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755057394	1675755058249	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755058084	1675755058388	OK	 
+USER	Leaderboard API	START	1675755058393
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755054430	1675755058419	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755057249	1675755058579	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755058383	1675755058687	OK	 
+USER	Leaderboard API	END	1675755058700
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755058394	1675755059232	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755058649	1675755059233	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755059091	1675755059371	OK	 
+USER	Leaderboard API	START	1675755059394
+USER	Leaderboard API	END	1675755059498
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755058236	1675755059553	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755055410	1675755059661	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755059424	1675755059714	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755059577	1675755060154	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755059394	1675755060239	OK	 
+USER	Leaderboard API	START	1675755060393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755060161	1675755060456	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755056475	1675755060471	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755059231	1675755060512	OK	 
+USER	Leaderboard API	END	1675755060730
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755060443	1675755060751	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755060608	1675755061193	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755060394	1675755061254	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755057381	1675755061388	OK	 
+USER	Leaderboard API	START	1675755061394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755061134	1675755061422	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755060242	1675755061535	OK	 
+USER	Leaderboard API	END	1675755061688
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755061419	1675755061729	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755061580	1675755062146	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755061394	1675755062225	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755058383	1675755062262	OK	 
+USER	Leaderboard API	START	1675755062393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755062234	1675755062524	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755061249	1675755062545	OK	 
+USER	Leaderboard API	END	1675755062716
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755062662	1675755062958	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755062553	1675755063113	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755059362	1675755063232	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755062393	1675755063235	OK	 
+USER	Leaderboard API	START	1675755063393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755063155	1675755063442	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755062233	1675755063560	OK	 
+USER	Leaderboard API	END	1675755063752
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755063472	1675755063776	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755063512	1675755064067	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755063393	1675755064236	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755060332	1675755064263	OK	 
+USER	Leaderboard API	START	1675755064394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755064194	1675755064489	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755063240	1675755064506	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755064388	1675755064722	OK	 
+USER	Leaderboard API	END	1675755064729
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755064536	1675755065144	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755064394	1675755065241	OK	 
+USER	Leaderboard API	START	1675755065393
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755061388	1675755065417	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755065147	1675755065432	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755065263	1675755065564	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755064255	1675755065584	OK	 
+USER	Leaderboard API	END	1675755065959
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755065545	1675755066116	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755065393	1675755066238	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755062372	1675755066278	OK	 
+USER	Leaderboard API	START	1675755066393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755066113	1675755066402	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755066233	1675755066529	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755065226	1675755066535	OK	 
+USER	Leaderboard API	END	1675755066777
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755066561	1675755067122	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755066393	1675755067223	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755067068	1675755067357	OK	 
+USER	Leaderboard API	START	1675755067394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755063457	1675755067422	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755066235	1675755067480	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755067264	1675755067557	OK	 
+USER	Leaderboard API	END	1675755067723
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755067507	1675755068127	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755067394	1675755068236	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755064423	1675755068335	OK	 
+USER	Leaderboard API	START	1675755068393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755068144	1675755068436	OK	 
+USER	Leaderboard API	END	1675755068565
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755067236	1675755068589	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755068418	1675755068714	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755068585	1675755069160	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755068394	1675755069227	OK	 
+USER	Leaderboard API	START	1675755069393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755069116	1675755069411	OK	 
+USER	Leaderboard API	END	1675755069530
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755068241	1675755069557	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755069278	1675755069572	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755065524	1675755069710	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755069535	1675755070093	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755069393	1675755070235	OK	 
+USER	Leaderboard API	START	1675755070394
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755066443	1675755070411	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755070123	1675755070412	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755069238	1675755070540	OK	 
+USER	Leaderboard API	END	1675755070558
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755070422	1675755070736	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755070481	1675755071043	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755070394	1675755071250	OK	 
+USER	Leaderboard API	START	1675755071394
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755071127	1675755071409	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755070226	1675755071476	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755067489	1675755071580	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755071336	1675755071630	OK	 
+USER	Leaderboard API	END	1675755071715
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755071590	1675755072148	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755071394	1675755072242	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755068433	1675755072327	OK	 
+USER	Leaderboard API	START	1675755072393
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755072161	1675755072452	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755071237	1675755072505	OK	 
+USER	Leaderboard API	END	1675755072572
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755072710	1675755073027	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755072558	1675755073143	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755072394	1675755073244	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755069403	1675755073349	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755073094	1675755073389	OK	 
+USER	Leaderboard API	START	1675755073394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755072228	1675755073491	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755073411	1675755073703	OK	 
+USER	Leaderboard API	END	1675755073737
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755073541	1675755074116	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755073394	1675755074221	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755070358	1675755074244	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755074044	1675755074328	OK	 
+USER	Leaderboard API	START	1675755074394
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755073235	1675755074520	OK	 
+USER	Leaderboard API	END	1675755074631
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755074581	1675755074897	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755074477	1675755075060	OK	 
+REQUEST		/studios/score?studioId=1-Fetch reward score by studio score	1675755074394	1675755075228	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755071437	1675755075393	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755075149	1675755075440	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755075328	1675755075621	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755074251	1675755075668	OK	 
+USER	Leaderboard API	END	1675755076028
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755075505	1675755076080	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755072411	1675755076389	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755076144	1675755076430	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755075243	1675755076508	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755076350	1675755076662	OK	 
+USER	Leaderboard API	END	1675755076704
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755076491	1675755077049	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755077117	1675755077403	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755073412	1675755077403	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755076244	1675755077525	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755077245	1675755077544	OK	 
+USER	Leaderboard API	END	1675755077898
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755077521	1675755078086	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755074410	1675755078291	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755078061	1675755078369	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755077222	1675755078521	OK	 
+USER	Leaderboard API	END	1675755078622
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755078394	1675755078686	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755078669	1675755079252	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755079081	1675755079370	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755075453	1675755079406	OK	 
+REQUEST		/studios/1-Get Studio details by Studio Id	1675755078229	1675755079478	OK	 
+USER	Leaderboard API	END	1675755079663
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755079390	1675755079688	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755079509	1675755080075	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755076390	1675755080335	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755080050	1675755080337	OK	 
+USER	Leaderboard API	END	1675755080545
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755080404	1675755080705	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755080526	1675755081088	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755077329	1675755081367	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755081087	1675755081390	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755081292	1675755081604	OK	 
+USER	Leaderboard API	END	1675755081687
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755081521	1675755082075	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755078441	1675755082420	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755082253	1675755082543	OK	 
+USER	Leaderboard API	END	1675755082689
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755082406	1675755082748	OK	 
+REQUEST		/getStudioCharter?studioId=1- Fetch charter(Image) on the basis of studio Id	1675755082478	1675755083041	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755083075	1675755083369	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755079431	1675755083385	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755083336	1675755083645	OK	 
+USER	Leaderboard API	END	1675755083706
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755080404	1675755084326	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755084088	1675755084373	OK	 
+USER	Leaderboard API	END	1675755084605
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755084368	1675755084668	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755081369	1675755085246	OK	 
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755085076	1675755085357	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755085420	1675755085715	OK	 
+USER	Leaderboard API	END	1675755085749
+REQUEST		/studioDetails- Fetch all Studio Ids and Studio names	1675755086041	1675755086322	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755082371	1675755086399	OK	 
+USER	Leaderboard API	END	1675755086646
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755086385	1675755086684	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755083337	1675755087306	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755087327	1675755087624	OK	 
+USER	Leaderboard API	END	1675755087669
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755084391	1675755088299	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755088246	1675755088542	OK	 
+USER	Leaderboard API	END	1675755088716
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755085543	1675755089450	OK	 
+USER	Leaderboard API	END	1675755089685
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755089400	1675755089703	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755086370	1675755090280	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755090307	1675755090594	OK	 
+USER	Leaderboard API	END	1675755090625
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755087373	1675755091359	OK	 
+USER	Leaderboard API	END	1675755091543
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755091300	1675755091592	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755088358	1675755092262	OK	 
+USER	Leaderboard API	END	1675755092704
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755092451	1675755092790	OK	 
+REQUEST		/studios-Get list of studio head all information like total members, monthly score, studio type	1675755089323	1675755093220	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755093281	1675755093587	OK	 
+USER	Leaderboard API	END	1675755093595
+USER	Leaderboard API	END	1675755094593
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755094360	1675755094674	OK	 
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755095263	1675755095563	OK	 
+USER	Leaderboard API	END	1675755095792
+REQUEST		/studio/1?month=March&year=2021-Get monthly contribution score for particular studio-	1675755096221	1675755096515	OK	 
+USER	Leaderboard API	END	1675755096588
+USER	Leaderboard API	END	1675755097675
+USER	Leaderboard API	END	1675755098564
+USER	Leaderboard API	END	1675755099515

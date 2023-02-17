@@ -1,0 +1,104 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1676487961554	 	3.5.1
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487962506
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487962995
+REQUEST		Get access token	1676487962526	1676487963090	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487963496
+REQUEST		Get access token	1676487962996	1676487963610	OK	 
+REQUEST		Get access token Redirect 1	1676487963106	1676487963962	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487963976
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487963996
+REQUEST		Get access token	1676487963496	1676487964044	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487964497
+REQUEST		Get access token Redirect 1	1676487963611	1676487964546	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487964547
+REQUEST		Get access token	1676487963997	1676487964553	OK	 
+REQUEST		Get access token Redirect 1	1676487964045	1676487964884	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487964886
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487964990
+REQUEST		Get access token	1676487964497	1676487965190	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487965490
+REQUEST		Get access token Redirect 1	1676487964554	1676487965498	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487965499
+REQUEST		Get access token	1676487964991	1676487965546	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487965989
+REQUEST		Get access token	1676487965491	1676487966048	OK	 
+REQUEST		Get access token Redirect 1	1676487965191	1676487966055	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487966056
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487966490
+REQUEST		Get access token Redirect 1	1676487965547	1676487966497	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487966498
+REQUEST		Get access token	1676487965990	1676487966595	OK	 
+REQUEST		Get access token Redirect 1	1676487966049	1676487966873	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487966874
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487966990
+REQUEST		Get access token	1676487966491	1676487967136	OK	 
+REQUEST		Get access token Redirect 1	1676487966596	1676487967430	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487967431
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487967490
+REQUEST		Get access token	1676487966990	1676487967648	OK	 
+REQUEST		Get access token Redirect 1	1676487967137	1676487967965	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487967966
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487967989
+REQUEST		Get access token	1676487967491	1676487968045	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487968490
+REQUEST		Get access token Redirect 1	1676487967649	1676487968510	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487968510
+REQUEST		Get access token	1676487967990	1676487968531	OK	 
+REQUEST		Get access token Redirect 1	1676487968046	1676487968881	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487968882
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487968990
+REQUEST		Get access token	1676487968491	1676487969049	OK	 
+REQUEST		Get access token Redirect 1	1676487968532	1676487969369	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487969370
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487969490
+REQUEST		Get access token	1676487968991	1676487969540	OK	 
+REQUEST		Get access token Redirect 1	1676487969050	1676487969875	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487969876
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487969990
+REQUEST		Get access token	1676487969491	1676487970046	OK	 
+REQUEST		Get access token Redirect 1	1676487969541	1676487970373	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487970374
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487970490
+REQUEST		Get access token	1676487969990	1676487970538	OK	 
+REQUEST		Get access token Redirect 1	1676487970046	1676487970878	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487970879
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487970990
+REQUEST		Get access token	1676487970491	1676487971039	OK	 
+REQUEST		Get access token Redirect 1	1676487970539	1676487971438	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487971440
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487971490
+REQUEST		Get access token	1676487970990	1676487971641	OK	 
+REQUEST		Get access token Redirect 1	1676487971039	1676487971921	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487971922
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487971990
+REQUEST		Get access token	1676487971490	1676487972044	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487972490
+REQUEST		Get access token	1676487971990	1676487972531	OK	 
+REQUEST		Get access token Redirect 1	1676487971642	1676487972537	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487972538
+REQUEST		Get access token Redirect 1	1676487972045	1676487972874	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487972875
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487972990
+REQUEST		Get access token	1676487972491	1676487973178	OK	 
+REQUEST		Get access token Redirect 1	1676487972532	1676487973477	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487973478
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487973490
+REQUEST		Get access token	1676487972990	1676487973541	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487973990
+REQUEST		Get access token	1676487973491	1676487974066	OK	 
+REQUEST		Get access token Redirect 1	1676487973178	1676487974070	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487974071
+REQUEST		Get access token Redirect 1	1676487973541	1676487974375	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487974379
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487974490
+REQUEST		Get access token	1676487973991	1676487974584	OK	 
+REQUEST		Get access token Redirect 1	1676487974067	1676487974905	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487974907
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487974990
+REQUEST		Get access token	1676487974491	1676487975046	OK	 
+REQUEST		Get access token Redirect 1	1676487974585	1676487975417	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676487975418
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487975490
+REQUEST		Get access token	1676487974990	1676487975541	OK	 
+USER	Scenario: Load Simulation With rampingUp Users	START	1676487975990
+REQUEST		Get access token Redirect 1	1676487975046	1676487975995	KO	

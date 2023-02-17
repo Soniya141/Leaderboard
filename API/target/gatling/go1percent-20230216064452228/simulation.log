@@ -1,0 +1,5 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1676529892228	 	3.5.1
+USER	Scenario: Load Simulation With rampingUp Users	START	1676529893105
+REQUEST		Get access token	1676529893121	1676529893757	OK	 
+REQUEST		Get access token Redirect 1	1676529893769	1676529894768	KO	status.find.is(200), but actually found 415
+USER	Scenario: Load Simulation With rampingUp Users	END	1676529894814

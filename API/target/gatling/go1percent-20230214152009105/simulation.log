@@ -1,0 +1,1501 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1676388009105	 	3.5.1
+USER	Summary API	START	1676388011358
+USER	Summary API	START	1676388011682
+USER	Summary API	START	1676388012016
+USER	Summary API	START	1676388012351
+USER	Summary API	START	1676388012684
+USER	Summary API	START	1676388013017
+USER	Summary API	START	1676388013352
+USER	Summary API	START	1676388013678
+USER	Summary API	START	1676388014012
+USER	Summary API	START	1676388014347
+USER	Summary API	START	1676388014679
+USER	Summary API	START	1676388015012
+USER	Summary API	START	1676388015347
+USER	Summary API	START	1676388015679
+USER	Summary API	START	1676388016013
+USER	Summary API	START	1676388016348
+USER	Summary API	START	1676388016679
+USER	Summary API	START	1676388017012
+USER	Summary API	START	1676388017346
+USER	Summary API	START	1676388017678
+USER	Summary API	START	1676388018012
+USER	Summary API	START	1676388018346
+USER	Summary API	START	1676388018679
+USER	Summary API	START	1676388019012
+USER	Summary API	START	1676388019346
+USER	Summary API	START	1676388019679
+USER	Summary API	START	1676388020012
+USER	Summary API	START	1676388020346
+USER	Summary API	START	1676388020679
+USER	Summary API	START	1676388021012
+USER	Summary API	START	1676388021346
+USER	Summary API	START	1676388021678
+USER	Summary API	START	1676388022012
+USER	Summary API	START	1676388022346
+USER	Summary API	START	1676388022678
+USER	Summary API	START	1676388023012
+USER	Summary API	START	1676388023345
+USER	Summary API	START	1676388023678
+USER	Summary API	START	1676388024012
+USER	Summary API	START	1676388024346
+USER	Summary API	START	1676388024679
+USER	Summary API	START	1676388025012
+USER	Summary API	START	1676388025346
+USER	Summary API	START	1676388025679
+USER	Summary API	START	1676388026012
+USER	Summary API	START	1676388026346
+USER	Summary API	START	1676388026679
+USER	Summary API	START	1676388027012
+USER	Summary API	START	1676388027346
+USER	Summary API	START	1676388027679
+USER	Summary API	START	1676388028012
+USER	Summary API	START	1676388028346
+USER	Summary API	START	1676388028679
+USER	Summary API	START	1676388029011
+USER	Summary API	START	1676388029346
+USER	Summary API	START	1676388029679
+USER	Summary API	START	1676388030012
+USER	Summary API	START	1676388030346
+USER	Summary API	START	1676388030679
+USER	Summary API	START	1676388031012
+USER	Summary API	START	1676388031346
+USER	Summary API	START	1676388031679
+USER	Summary API	START	1676388032012
+USER	Summary API	START	1676388032347
+USER	Summary API	START	1676388032679
+USER	Summary API	START	1676388033012
+USER	Summary API	START	1676388033346
+USER	Summary API	START	1676388033679
+USER	Summary API	START	1676388034012
+USER	Summary API	START	1676388034346
+USER	Summary API	START	1676388034679
+USER	Summary API	START	1676388035011
+USER	Summary API	START	1676388035346
+USER	Summary API	START	1676388035679
+USER	Summary API	START	1676388036012
+USER	Summary API	START	1676388036346
+USER	Summary API	START	1676388036678
+USER	Summary API	START	1676388037012
+USER	Summary API	START	1676388037346
+USER	Summary API	START	1676388037679
+USER	Summary API	START	1676388038012
+USER	Summary API	START	1676388038346
+USER	Summary API	START	1676388038679
+USER	Summary API	START	1676388039012
+USER	Summary API	START	1676388039347
+USER	Summary API	START	1676388039679
+USER	Summary API	START	1676388040012
+USER	Summary API	START	1676388040346
+USER	Summary API	START	1676388040678
+USER	Summary API	START	1676388041011
+USER	Summary API	START	1676388041345
+USER	Summary API	START	1676388041680
+REQUEST		My Techup - Fetch approved Techup	1676388019013	1676388041843	KO	status.find.is(204), but actually found 400
+USER	Summary API	START	1676388042012
+REQUEST		My Techup - Fetch approved Techup	1676388016014	1676388042235	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388014348	1676388042235	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388012684	1676388042235	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388014679	1676388042235	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388017013	1676388042235	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388012017	1676388042235	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388015680	1676388042235	KO	status.find.is(204), but actually found 400
+USER	Summary API	START	1676388042347
+USER	Summary API	START	1676388042679
+USER	Summary API	START	1676388043012
+USER	Summary API	START	1676388043346
+REQUEST		My Techup - Fetch approved Techup	1676388016679	1676388043422	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388015348	1676388043422	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388013018	1676388043428	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388020347	1676388043452	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388012351	1676388043453	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388021679	1676388043458	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388022012	1676388043459	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388013352	1676388043459	KO	status.find.is(204), but actually found 400
+USER	Summary API	START	1676388043678
+REQUEST		My Techup - Fetch approved Techup	1676388011683	1676388043705	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388017679	1676388043706	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388018012	1676388043707	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388019347	1676388043878	KO	status.find.is(204), but actually found 400
+USER	Summary API	START	1676388044011
+USER	Summary API	START	1676388044346
+REQUEST		My Techup - Fetch approved Techup	1676388018346	1676388044452	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388015013	1676388044453	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388020012	1676388044638	KO	status.find.is(204), but actually found 400
+USER	Summary API	START	1676388044679
+REQUEST		My Techup - Fetch approved Techup	1676388017347	1676388044681	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388018679	1676388044681	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388016349	1676388044681	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388013679	1676388044682	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388021012	1676388044682	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388027013	1676388044682	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388026679	1676388044682	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388025679	1676388044684	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388022679	1676388044716	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388021347	1676388044718	KO	status.find.is(204), but actually found 400
+REQUEST		My Techup - Fetch approved Techup	1676388026012	1676388044982	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388023012	1676388044987	OK	 
+USER	Summary API	START	1676388045012
+USER	Summary API	START	1676388045346
+USER	Summary API	START	1676388045679
+REQUEST		My Techup - Fetch approved Techup	1676388027679	1676388045902	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388027347	1676388045988	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388046012
+REQUEST		My Techup - Fetch approved Techup	1676388029012	1676388046219	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388046346
+USER	Summary API	START	1676388046679
+USER	Summary API	START	1676388047012
+REQUEST		My Techup - Fetch approved Techup	1676388028012	1676388047241	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388028346	1676388047241	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388030679	1676388047241	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388031346	1676388047244	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388047346
+USER	Summary API	START	1676388047679
+REQUEST		My Techup - Fetch approved Techup	1676388031012	1676388047895	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388031680	1676388047896	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388029346	1676388047896	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388048012
+USER	Summary API	START	1676388048346
+USER	Summary API	START	1676388048679
+USER	Summary API	START	1676388049011
+USER	Summary API	START	1676388049346
+USER	Summary API	START	1676388049678
+REQUEST		My Techup - Fetch approved Techup	1676388032013	1676388049890	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388050011
+USER	Summary API	START	1676388050346
+USER	Summary API	START	1676388050678
+USER	Summary API	START	1676388051011
+USER	Summary API	START	1676388051346
+USER	Summary API	START	1676388051678
+REQUEST		My Techup - Fetch approved Techup	1676388032347	1676388051714	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388033012	1676388051715	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388019680	1676388051876	OK	 
+REQUEST		My Techup - Fetch approved Techup	1676388034347	1676388051925	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388052011
+REQUEST		My Techup - Fetch approved Techup	1676388033679	1676388052129	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388029679	1676388052184	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388052345
+USER	Summary API	START	1676388052679
+USER	Summary API	START	1676388053012
+USER	Summary API	START	1676388053346
+USER	Summary API	START	1676388053678
+USER	Summary API	START	1676388054011
+USER	Summary API	START	1676388054345
+USER	Summary API	START	1676388054679
+USER	Summary API	START	1676388055012
+USER	Summary API	START	1676388055346
+USER	Summary API	START	1676388055679
+USER	Summary API	START	1676388056012
+USER	Summary API	START	1676388056346
+USER	Summary API	START	1676388056679
+USER	Summary API	START	1676388057012
+USER	Summary API	START	1676388057346
+USER	Summary API	START	1676388057679
+USER	Summary API	START	1676388058012
+USER	Summary API	START	1676388058346
+USER	Summary API	START	1676388058679
+USER	Summary API	START	1676388059013
+USER	Summary API	START	1676388059346
+USER	Summary API	START	1676388059678
+REQUEST		My Techup - Fetch approved Techup	1676388030347	1676388059723	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388060011
+USER	Summary API	START	1676388060345
+USER	Summary API	START	1676388060679
+USER	Summary API	START	1676388061012
+REQUEST		My Techup - Fetch approved Techup	1676388028679	1676388061230	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388061347
+USER	Summary API	START	1676388061679
+REQUEST		My Techup - Fetch approved Techup	1676388033347	1676388061986	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388062012
+REQUEST		My Techup - Fetch approved Techup	1676388024346	1676388062293	OK	 
+REQUEST		My Techup - Fetch approved Techup	1676388030012	1676388062294	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388062346
+USER	Summary API	START	1676388062679
+USER	Summary API	START	1676388063012
+USER	Summary API	START	1676388063346
+USER	Summary API	START	1676388063679
+USER	Summary API	START	1676388064011
+USER	Summary API	START	1676388064346
+USER	Summary API	START	1676388064678
+USER	Summary API	START	1676388065011
+USER	Summary API	START	1676388065346
+USER	Summary API	START	1676388065678
+REQUEST		My Techup - Fetch approved Techup	1676388034679	1676388065944	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388066011
+USER	Summary API	START	1676388066346
+REQUEST		My Techup - Fetch approved Techup	1676388041346	1676388066492	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388043012	1676388066492	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388066679
+REQUEST		My Techup - Fetch approved Techup	1676388014012	1676388066729	OK	 
+REQUEST		My Techup - Fetch approved Techup	1676388032680	1676388066729	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388067012
+USER	Summary API	START	1676388067346
+REQUEST		My Techup - Fetch approved Techup	1676388026347	1676388067519	KO	status.find.is(204), but actually found 400
+USER	Summary API	START	1676388067678
+REQUEST		My Techup - Fetch approved Techup	1676388041680	1676388067973	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388020679	1676388067981	OK	 
+REQUEST		My Techup - Fetch approved Techup	1676388011376	1676388067984	OK	 
+USER	Summary API	START	1676388068011
+REQUEST		My Techup - Fetch approved Techup	1676388034012	1676388068129	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388068346
+USER	Summary API	START	1676388068679
+USER	Summary API	START	1676388069012
+USER	Summary API	START	1676388069346
+USER	Summary API	START	1676388069678
+USER	Summary API	START	1676388070011
+USER	Summary API	START	1676388070346
+USER	Summary API	START	1676388070678
+USER	Summary API	START	1676388071012
+USER	Summary API	START	1676388071346
+USER	Summary API	START	1676388071678
+USER	Summary API	START	1676388072012
+USER	Summary API	START	1676388072346
+USER	Summary API	START	1676388072679
+USER	Summary API	START	1676388073012
+USER	Summary API	START	1676388073346
+USER	Summary API	START	1676388073679
+USER	Summary API	START	1676388074012
+USER	Summary API	START	1676388074346
+USER	Summary API	START	1676388074679
+USER	Summary API	START	1676388075012
+USER	Summary API	START	1676388075346
+REQUEST		My Techup - Fetch approved Techup	1676388035012	1676388075395	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388075678
+USER	Summary API	START	1676388076011
+USER	Summary API	START	1676388076345
+USER	Summary API	START	1676388076679
+REQUEST		Approval Techup - Fetch approval Techups	1676388045236	1676388076708	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388043679	1676388076905	KO	status.find.is(204), but actually found 500
+REQUEST		Approval Techup - Fetch approval Techups	1676388045237	1676388076907	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388077012
+REQUEST		My Techup - Fetch approved Techup	1676388023679	1676388077155	OK	 
+USER	Summary API	START	1676388077346
+USER	Summary API	START	1676388077679
+REQUEST		My Techup - Fetch approved Techup	1676388044346	1676388077720	KO	status.find.is(204), but actually found 500
+REQUEST		Approval Techup - Fetch approval Techups	1676388045236	1676388077724	KO	status.find.is(204), but actually found 500
+REQUEST		Approval Techup - Fetch approval Techups	1676388045236	1676388077728	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388043347	1676388077887	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388045013	1676388077891	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388022346	1676388077893	OK	 
+REQUEST		Approval Techup - Fetch approval Techups	1676388044856	1676388077894	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388044679	1676388077894	KO	status.find.is(204), but actually found 500
+REQUEST		Approval Techup - Fetch approval Techups	1676388045236	1676388077902	KO	status.find.is(204), but actually found 500
+REQUEST		My Techup - Fetch approved Techup	1676388035346	1676388077914	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388078011
+USER	Summary API	START	1676388078345
+REQUEST		My Techup - Fetch approved Techup	1676388045679	1676388078452	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388078678
+REQUEST		Approval Techup - Fetch approval Techups	1676388045236	1676388078896	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388079011
+USER	Summary API	START	1676388079345
+USER	Summary API	START	1676388079678
+USER	Summary API	START	1676388080011
+USER	Summary API	START	1676388080345
+REQUEST		Approval Techup - Fetch approval Techups	1676388046429	1676388080377	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388080678
+USER	Summary API	START	1676388081011
+USER	Summary API	START	1676388081345
+USER	Summary API	START	1676388081679
+USER	Summary API	START	1676388082012
+USER	Summary API	START	1676388082346
+USER	Summary API	START	1676388082678
+REQUEST		Approval Techup - Fetch approval Techups	1676388046423	1676388082946	KO	status.find.is(204), but actually found 500
+USER	Summary API	START	1676388083011
+USER	Summary API	START	1676388083345
+REQUEST		My Techup - Fetch approved Techup	1676388023346	1676388083346	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to techhub-backend.qa.go1percent.com/34.132.142.94:443 after 60000 ms
+REQUEST		My Techup - Fetch approved Techup	1676388082678	1676388083510	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388083378	1676388083655	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388083679
+REQUEST		My Techup - Fetch approved Techup	1676388083011	1676388083832	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388024012	1676388084012	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to techhub-backend.qa.go1percent.com/34.132.142.94:443 after 60000 ms
+USER	Summary API	START	1676388084012
+REQUEST		My Techup - Fetch approved Techup	1676388083345	1676388084172	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388084346
+REQUEST		Approval Techup - Fetch approval Techups	1676388047682	1676388084451	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388073679	1676388084451	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388072679	1676388084453	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046423	1676388084455	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388079012	1676388084458	KO	status.find.is(204), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388080729	1676388084458	KO	status.find.is(200), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388060680	1676388084458	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047684	1676388084459	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388075346	1676388084460	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388076346	1676388084460	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388045236	1676388084460	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388082346	1676388084460	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046880	1676388084461	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388025012	1676388084462	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388078397	1676388084462	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388024679	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388071012	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388080156	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388050679	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046460	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388049012	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046459	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388055130	1676388084463	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047682	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388069493	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388068945	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388077679	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388051679	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388042012	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388061013	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388071346	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388059346	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050897	1676388084464	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046707	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388048989	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388047680	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388047013	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388064231	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050242	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047683	1676388084465	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388042679	1676388084466	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050896	1676388084466	KO	status.find.is(204), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388080725	1676388084466	KO	status.find.is(200), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388048347	1676388084466	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047453	1676388084466	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388055185	1676388084467	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388049679	1676388084467	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388054679	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388063679	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050242	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388058012	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388054716	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388068346	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388063347	1676388084468	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388059013	1676388084469	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388063013	1676388084469	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047717	1676388084469	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388062724	1676388084470	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388073347	1676388084470	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388068679	1676388084470	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388042347	1676388084471	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388064987	1676388084471	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388074012	1676388084471	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388064012	1676388084472	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388066346	1676388084472	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047719	1676388084472	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388069730	1676388084472	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388070346	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388079678	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388048013	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388047346	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388075678	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388057012	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047989	1676388084474	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388054715	1676388084475	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388056679	1676388084475	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388071130	1676388084475	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050242	1676388084475	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388055012	1676388084476	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388050346	1676388084477	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388048679	1676388084477	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388054877	1676388084477	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388055347	1676388084477	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388056347	1676388084478	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050246	1676388084478	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388069679	1676388084478	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388052679	1676388084479	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388053013	1676388084479	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388055679	1676388084481	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388072012	1676388084481	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046453	1676388084482	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388057346	1676388084482	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388053346	1676388084482	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388060346	1676388084482	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388069012	1676388084482	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388053679	1676388084483	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388058346	1676388084485	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388066680	1676388084485	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047682	1676388084485	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046706	1676388084485	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388076679	1676388084485	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047454	1676388084486	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388025347	1676388084486	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388067013	1676388084486	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047983	1676388084486	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388061348	1676388084486	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046460	1676388084487	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388077346	1676388084487	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046454	1676388084487	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388048903	1676388084487	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388065679	1676388084487	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047683	1676388084488	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388050012	1676388084489	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388051346	1676388084490	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388051012	1676388084491	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388044012	1676388084492	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388052346	1676388084492	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388058680	1676388084493	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388060012	1676388084494	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388057679	1676388084494	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388054346	1676388084494	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388065012	1676388084494	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388050896	1676388084494	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388065295	1676388084494	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388059679	1676388084495	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388049220	1676388084495	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388064346	1676388084496	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388062346	1676388084496	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388069346	1676388084496	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388065294	1676388084497	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388064679	1676388084497	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388070012	1676388084497	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388070973	1676388084497	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388074346	1676388084497	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388078678	1676388084498	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388056012	1676388084498	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388066012	1676388084499	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388067347	1676388084500	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388069494	1676388084500	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388070520	1676388084501	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388068012	1676388084501	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388083679	1676388084556	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388080679	1676388084633	KO	status.find.is(204), but actually found 502
+USER	Summary API	START	1676388084679
+REQUEST		My Techup - Fetch approved Techup	1676388070679	1676388084707	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388084013	1676388084835	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388081453	1676388084874	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388073012	1676388084874	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388081012	1676388084902	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388078012	1676388084903	KO	status.find.is(204), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388079709	1676388084983	KO	status.find.is(200), but actually found 502
+USER	Summary API	START	1676388085012
+REQUEST		AllTechup - Fetch all Techup	1676388081897	1676388085231	KO	status.find.is(200), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388079906	1676388085231	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388084346	1676388085231	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388081346	1676388085231	KO	status.find.is(204), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388079908	1676388085232	KO	status.find.is(200), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388079345	1676388085232	KO	status.find.is(204), but actually found 502
+USER	Summary API	START	1676388085346
+REQUEST		My Techup - Fetch approved Techup	1676388084679	1676388085538	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388036347	1676388085538	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388035680	1676388085538	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388052012	1676388085539	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388037346	1676388085538	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388061681	1676388085538	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388040012	1676388085539	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388038680	1676388085538	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047683	1676388085539	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388045347	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388049346	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388070982	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388037679	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388072347	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388074679	1676388085539	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388039013	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388036679	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388052891	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388040346	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047639	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388046707	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388039347	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388054926	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388046679	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388041012	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388038347	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388036013	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388039679	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388078346	1676388085541	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388046012	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388062680	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388046346	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388069730	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388047683	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388062013	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388080887	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388067679	1676388085542	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388037012	1676388085543	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388054012	1676388085543	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388076012	1676388085540	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388065346	1676388085543	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388038012	1676388085543	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388040678	1676388085543	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388081679	1676388085623	KO	status.find.is(204), but actually found 502
+USER	Summary API	START	1676388085678
+REQUEST		My Techup - Fetch approved Techup	1676388085012	1676388085853	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388075013	1676388085873	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388071679	1676388085874	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388080011	1676388085874	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388082013	1676388085924	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388077012	1676388085926	KO	status.find.is(204), but actually found 502
+USER	Summary API	START	1676388086011
+REQUEST		Approval Techup - Fetch approval Techups	1676388080721	1676388086074	KO	status.find.is(204), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388085947	1676388086279	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388070984	1676388086279	KO	status.find.is(204), but actually found 504
+REQUEST		Approval Techup - Fetch approval Techups	1676388080894	1676388086279	KO	status.find.is(204), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388080894	1676388086279	KO	status.find.is(200), but actually found 502
+REQUEST		AllTechup - Fetch all Techup	1676388080903	1676388086279	KO	status.find.is(200), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388085346	1676388086279	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388080915	1676388086279	KO	status.find.is(204), but actually found 502
+REQUEST		My Techup - Fetch approved Techup	1676388080345	1676388086279	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388080892	1676388086279	KO	status.find.is(204), but actually found 502
+REQUEST		Approval Techup - Fetch approval Techups	1676388080894	1676388086279	KO	status.find.is(204), but actually found 502
+USER	Summary API	START	1676388086345
+REQUEST		My Techup - Fetch approved Techup	1676388085678	1676388086553	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388086658
+USER	Summary API	START	1676388086679
+REQUEST		Approval Techup - Fetch approval Techups	1676388086512	1676388086894	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388086011	1676388086974	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388087012
+REQUEST		Approval Techup - Fetch approval Techups	1676388086833	1676388087161	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388086349	1676388087304	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388087346
+REQUEST		My Techup - Fetch approved Techup	1676388086345	1676388087372	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388087460
+USER	Summary API	END	1676388087467
+REQUEST		Approval Techup - Fetch approval Techups	1676388087172	1676388087521	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388086679	1676388087574	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388087678
+REQUEST		Approval Techup - Fetch approval Techups	1676388087453	1676388087789	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087464	1676388087789	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087459	1676388087791	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087452	1676388087791	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087460	1676388087792	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087461	1676388087792	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087455	1676388087792	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087467	1676388087792	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087452	1676388087792	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087461	1676388087792	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087460	1676388087793	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087460	1676388087793	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087464	1676388087793	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087469	1676388087793	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087464	1676388087793	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087464	1676388087793	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087469	1676388087793	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087471	1676388087793	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087465	1676388087794	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087475	1676388087794	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087482	1676388087794	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087477	1676388087794	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087468	1676388087794	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087467	1676388087795	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087463	1676388087795	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087469	1676388087795	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087468	1676388087795	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087468	1676388087795	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087461	1676388087795	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087469	1676388087795	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087467	1676388087796	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087473	1676388087796	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087465	1676388087796	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087480	1676388087796	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087465	1676388087796	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087461	1676388087796	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087466	1676388087797	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087463	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087474	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087463	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087464	1676388087797	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087473	1676388087797	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087462	1676388087797	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087480	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087471	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087462	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087463	1676388087797	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087467	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087478	1676388087797	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087467	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087469	1676388087798	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087472	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087477	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087466	1676388087798	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087486	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087479	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087476	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087472	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087471	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087474	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087464	1676388087798	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087476	1676388087798	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087470	1676388087799	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087474	1676388087799	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087483	1676388087799	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087486	1676388087799	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087475	1676388087799	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087474	1676388087800	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087471	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087464	1676388087799	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087486	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087472	1676388087800	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087471	1676388087800	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087472	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087489	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087483	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087478	1676388087800	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087468	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087466	1676388087800	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087486	1676388087800	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087469	1676388087801	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087481	1676388087801	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087473	1676388087801	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087488	1676388087803	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087492	1676388087803	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087488	1676388087803	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087494	1676388087803	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087493	1676388087803	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087476	1676388087804	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087495	1676388087804	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087482	1676388087804	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087475	1676388087805	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087487	1676388087805	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087497	1676388087805	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087490	1676388087805	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087498	1676388087806	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087476	1676388087806	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087488	1676388087806	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087474	1676388087806	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087479	1676388087806	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087482	1676388087806	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087497	1676388087807	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087498	1676388087807	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087497	1676388087807	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087495	1676388087807	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087498	1676388087808	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087463	1676388087808	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087486	1676388087808	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087495	1676388087808	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087464	1676388087808	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087482	1676388087809	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087494	1676388087809	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087497	1676388087809	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087467	1676388087809	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087493	1676388087809	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087495	1676388087809	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087465	1676388087809	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087496	1676388087810	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087474	1676388087811	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087487	1676388087811	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087472	1676388087811	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087487	1676388087811	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087487	1676388087811	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087495	1676388087811	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087497	1676388087812	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087500	1676388087812	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087481	1676388087812	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087501	1676388087813	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087488	1676388087813	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087501	1676388087813	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087479	1676388087813	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087487	1676388087813	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087497	1676388087814	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087493	1676388087814	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087487	1676388087814	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087487	1676388087815	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087502	1676388087815	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087501	1676388087816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087499	1676388087816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087557	1676388087830	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087634	1676388087905	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388087012	1676388087921	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087013	1676388087935	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087708	1676388087980	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388087984
+USER	Summary API	START	1676388088011
+REQUEST		Approval Techup - Fetch approval Techups	1676388087836	1676388088108	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388087874	1676388088142	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087875	1676388088147	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388087346	1676388088158	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087903	1676388088176	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388087903	1676388088179	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388088232
+USER	Summary API	END	1676388088232
+USER	Summary API	START	1676388088345
+REQUEST		My Techup - Fetch approved Techup	1676388087678	1676388088504	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088232	1676388088506	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088232	1676388088506	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088232	1676388088506	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088233	1676388088506	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388088678
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088808	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088809	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088809	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088809	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088540	1676388088810	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088811	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088541	1676388088813	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088813	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088541	1676388088813	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088813	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088540	1676388088813	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088814	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088541	1676388088814	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088814	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088813	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088815	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088541	1676388088815	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088541	1676388088815	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088543	1676388088815	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088815	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088543	1676388088815	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088541	1676388088815	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088541	1676388088816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088545	1676388088816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088816	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088543	1676388088816	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088816	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088543	1676388088817	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088817	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088817	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388088542	1676388088817	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088543	1676388088817	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088542	1676388088817	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088544	1676388088819	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088544	1676388088820	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088543	1676388088820	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088825	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088540	1676388088826	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088539	1676388088827	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088541	1676388088831	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088543	1676388088831	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388088011	1676388088832	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088624	1676388088895	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388089012
+REQUEST		Approval Techup - Fetch approval Techups	1676388088854	1676388089132	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088874	1676388089145	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088875	1676388089146	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088874	1676388089147	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388088345	1676388089168	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088925	1676388089197	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388088926	1676388089199	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388089280
+USER	Summary API	END	1676388089280
+USER	Summary API	END	1676388089280
+REQUEST		AllTechup - Fetch all Techup	1676388089075	1676388089345	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388089346
+REQUEST		My Techup - Fetch approved Techup	1676388088679	1676388089532	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388089280	1676388089552	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388089280	1676388089552	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388089280	1676388089553	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388089280	1676388089555	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388089279	1676388089555	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388089280	1676388089567	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388089280	1676388089569	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388089679
+REQUEST		Approval Techup - Fetch approval Techups	1676388089553	1676388089839	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388089012	1676388089839	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388090012
+REQUEST		AllTechup - Fetch all Techup	1676388089895	1676388090168	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388089346	1676388090168	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388089975	1676388090249	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388090346
+REQUEST		AllTechup - Fetch all Techup	1676388090162	1676388090431	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388089679	1676388090496	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090305	1676388090575	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388090372	1676388090643	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388090678
+USER	Summary API	END	1676388090790
+REQUEST		AllTechup - Fetch all Techup	1676388090522	1676388090791	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388090792
+USER	Summary API	END	1676388090793
+USER	Summary API	END	1676388090793
+USER	Summary API	END	1676388090793
+USER	Summary API	END	1676388090794
+USER	Summary API	END	1676388090794
+USER	Summary API	END	1676388090794
+USER	Summary API	END	1676388090794
+USER	Summary API	END	1676388090796
+USER	Summary API	END	1676388090796
+USER	Summary API	END	1676388090796
+USER	Summary API	END	1676388090796
+USER	Summary API	END	1676388090797
+USER	Summary API	END	1676388090797
+USER	Summary API	END	1676388090797
+USER	Summary API	END	1676388090798
+USER	Summary API	END	1676388090798
+USER	Summary API	END	1676388090798
+USER	Summary API	END	1676388090799
+USER	Summary API	END	1676388090800
+USER	Summary API	END	1676388090800
+USER	Summary API	END	1676388090800
+USER	Summary API	END	1676388090800
+USER	Summary API	END	1676388090800
+USER	Summary API	END	1676388090801
+USER	Summary API	END	1676388090801
+USER	Summary API	END	1676388090801
+USER	Summary API	END	1676388090801
+USER	Summary API	END	1676388090802
+USER	Summary API	END	1676388090802
+USER	Summary API	END	1676388090803
+USER	Summary API	END	1676388090804
+USER	Summary API	END	1676388090804
+USER	Summary API	END	1676388090805
+USER	Summary API	END	1676388090806
+USER	Summary API	END	1676388090807
+USER	Summary API	END	1676388090808
+USER	Summary API	END	1676388090808
+USER	Summary API	END	1676388090809
+USER	Summary API	END	1676388090810
+USER	Summary API	END	1676388090810
+USER	Summary API	END	1676388090810
+USER	Summary API	END	1676388090811
+USER	Summary API	END	1676388090812
+USER	Summary API	END	1676388090814
+USER	Summary API	END	1676388090814
+USER	Summary API	END	1676388090814
+USER	Summary API	END	1676388090815
+USER	Summary API	END	1676388090816
+USER	Summary API	END	1676388090816
+REQUEST		My Techup - Fetch approved Techup	1676388090012	1676388090827	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388090575	1676388090845	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388091011
+REQUEST		AllTechup - Fetch all Techup	1676388090790	1676388091058	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090791	1676388091061	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090792	1676388091061	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090795	1676388091062	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090793	1676388091062	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090792	1676388091062	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090795	1676388091063	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090793	1676388091064	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090794	1676388091064	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090795	1676388091064	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090795	1676388091066	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090793	1676388091066	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090793	1676388091066	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090795	1676388091066	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090794	1676388091066	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090796	1676388091069	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090797	1676388091069	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090795	1676388091069	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090797	1676388091070	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090797	1676388091070	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091070	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091071	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090797	1676388091071	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091071	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090797	1676388091071	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091072	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091072	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091072	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091072	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090802	1676388091072	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090801	1676388091073	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091073	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091073	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090804	1676388091073	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091073	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090800	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090798	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090803	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090800	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090801	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090801	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090800	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090800	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091074	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090802	1676388091075	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090803	1676388091075	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090803	1676388091075	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090801	1676388091075	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090799	1676388091075	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090801	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090805	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090801	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090805	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090807	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090803	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090802	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090803	1676388091076	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090800	1676388091078	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090805	1676388091078	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090806	1676388091078	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090806	1676388091078	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090806	1676388091079	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090807	1676388091079	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090809	1676388091079	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090806	1676388091079	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090806	1676388091080	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090808	1676388091081	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090809	1676388091083	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090812	1676388091083	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090812	1676388091083	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090811	1676388091083	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090812	1676388091083	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090810	1676388091084	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090812	1676388091084	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090813	1676388091085	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090810	1676388091086	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090816	1676388091090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090816	1676388091091	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090808	1676388091093	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090809	1676388091093	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090809	1676388091094	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090811	1676388091096	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090812	1676388091099	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090812	1676388091099	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090814	1676388091100	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090814	1676388091101	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090814	1676388091101	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090830	1676388091101	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388091143
+REQUEST		My Techup - Fetch approved Techup	1676388090346	1676388091166	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090905	1676388091176	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388090922	1676388091193	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090935	1676388091210	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388090981	1676388091253	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388091346
+REQUEST		AllTechup - Fetch all Techup	1676388091109	1676388091379	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091148	1676388091419	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388091159	1676388091428	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091177	1676388091450	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091179	1676388091453	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388090679	1676388091496	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388091507
+USER	Summary API	START	1676388091678
+REQUEST		Approval Techup - Fetch approval Techups	1676388091505	1676388091777	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091506	1676388091779	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091506	1676388091780	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091507	1676388091780	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388091811
+USER	Summary API	END	1676388091814
+USER	Summary API	END	1676388091814
+USER	Summary API	END	1676388091815
+USER	Summary API	END	1676388091816
+USER	Summary API	END	1676388091816
+USER	Summary API	END	1676388091816
+USER	Summary API	END	1676388091817
+USER	Summary API	END	1676388091817
+REQUEST		My Techup - Fetch approved Techup	1676388091012	1676388091840	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388092011
+REQUEST		AllTechup - Fetch all Techup	1676388091809	1676388092078	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091810	1676388092079	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091809	1676388092079	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091810	1676388092080	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091814	1676388092082	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091811	1676388092083	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091815	1676388092084	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091814	1676388092085	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091815	1676388092085	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091817	1676388092085	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091814	1676388092086	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091816	1676388092086	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091816	1676388092086	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091817	1676388092086	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091816	1676388092087	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091815	1676388092087	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091817	1676388092086	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091815	1676388092088	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091815	1676388092088	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091817	1676388092090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091819	1676388092090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091816	1676388092090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091816	1676388092090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091818	1676388092090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091817	1676388092090	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091818	1676388092092	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091819	1676388092093	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091820	1676388092094	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091821	1676388092095	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388091833	1676388092104	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091825	1676388092110	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091827	1676388092110	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091827	1676388092112	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091832	1676388092118	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091832	1676388092119	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388091346	1676388092159	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388091895	1676388092166	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388092346
+USER	Summary API	END	1676388092347
+REQUEST		AllTechup - Fetch all Techup	1676388092132	1676388092409	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092146	1676388092416	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092146	1676388092418	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092148	1676388092421	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388092168	1676388092440	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092197	1676388092468	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092199	1676388092472	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388091678	1676388092501	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388092554
+USER	Summary API	END	1676388092555
+USER	Summary API	END	1676388092556
+USER	Summary API	END	1676388092568
+USER	Summary API	END	1676388092570
+USER	Summary API	START	1676388092679
+REQUEST		Approval Techup - Fetch approval Techups	1676388092532	1676388092802	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092552	1676388092821	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388092011	1676388092822	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388092553	1676388092824	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388093012
+REQUEST		AllTechup - Fetch all Techup	1676388092839	1676388093111	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388092840	1676388093113	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388093169
+REQUEST		My Techup - Fetch approved Techup	1676388092346	1676388093210	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388093346
+USER	Summary API	END	1676388093432
+REQUEST		Approval Techup - Fetch approval Techups	1676388093168	1676388093442	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388092679	1676388093495	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388093249	1676388093522	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388093576
+USER	Summary API	START	1676388093679
+REQUEST		Approval Techup - Fetch approval Techups	1676388093496	1676388093767	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388093792
+REQUEST		My Techup - Fetch approved Techup	1676388093012	1676388093827	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388093643	1676388093915	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388094012
+USER	Summary API	END	1676388094060
+USER	Summary API	END	1676388094061
+USER	Summary API	END	1676388094062
+USER	Summary API	END	1676388094063
+USER	Summary API	END	1676388094063
+USER	Summary API	END	1676388094063
+USER	Summary API	END	1676388094064
+USER	Summary API	END	1676388094064
+USER	Summary API	END	1676388094065
+USER	Summary API	END	1676388094065
+USER	Summary API	END	1676388094066
+USER	Summary API	END	1676388094067
+USER	Summary API	END	1676388094067
+USER	Summary API	END	1676388094067
+USER	Summary API	END	1676388094067
+USER	Summary API	END	1676388094070
+USER	Summary API	END	1676388094070
+USER	Summary API	END	1676388094070
+USER	Summary API	END	1676388094070
+USER	Summary API	END	1676388094070
+USER	Summary API	END	1676388094070
+USER	Summary API	END	1676388094071
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094072
+USER	Summary API	END	1676388094073
+USER	Summary API	END	1676388094073
+USER	Summary API	END	1676388094073
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094074
+USER	Summary API	END	1676388094075
+USER	Summary API	END	1676388094075
+USER	Summary API	END	1676388094075
+USER	Summary API	END	1676388094075
+USER	Summary API	END	1676388094075
+USER	Summary API	END	1676388094075
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094076
+USER	Summary API	END	1676388094078
+USER	Summary API	END	1676388094078
+USER	Summary API	END	1676388094078
+USER	Summary API	END	1676388094078
+USER	Summary API	END	1676388094078
+USER	Summary API	END	1676388094079
+USER	Summary API	END	1676388094080
+USER	Summary API	END	1676388094080
+USER	Summary API	END	1676388094080
+USER	Summary API	END	1676388094080
+USER	Summary API	END	1676388094081
+USER	Summary API	END	1676388094083
+USER	Summary API	END	1676388094083
+USER	Summary API	END	1676388094083
+USER	Summary API	END	1676388094083
+USER	Summary API	END	1676388094083
+USER	Summary API	END	1676388094084
+USER	Summary API	END	1676388094085
+USER	Summary API	END	1676388094085
+USER	Summary API	END	1676388094086
+USER	Summary API	END	1676388094090
+USER	Summary API	END	1676388094091
+USER	Summary API	END	1676388094093
+USER	Summary API	END	1676388094094
+USER	Summary API	END	1676388094094
+USER	Summary API	END	1676388094096
+REQUEST		Approval Techup - Fetch approval Techups	1676388093827	1676388094096	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388094099
+USER	Summary API	END	1676388094100
+USER	Summary API	END	1676388094100
+USER	Summary API	END	1676388094101
+USER	Summary API	END	1676388094101
+USER	Summary API	END	1676388094102
+REQUEST		AllTechup - Fetch all Techup	1676388093845	1676388094116	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388093346	1676388094171	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388094177
+USER	Summary API	END	1676388094212
+USER	Summary API	END	1676388094254
+USER	Summary API	START	1676388094346
+USER	Summary API	END	1676388094380
+USER	Summary API	END	1676388094420
+REQUEST		Approval Techup - Fetch approval Techups	1676388094167	1676388094439	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388094450
+USER	Summary API	END	1676388094454
+REQUEST		AllTechup - Fetch all Techup	1676388094194	1676388094465	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388093679	1676388094501	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388094679
+REQUEST		AllTechup - Fetch all Techup	1676388094428	1676388094696	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388094496	1676388094767	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388094780
+USER	Summary API	END	1676388094781
+USER	Summary API	END	1676388094781
+REQUEST		My Techup - Fetch approved Techup	1676388094012	1676388094828	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388095012
+REQUEST		AllTechup - Fetch all Techup	1676388094778	1676388095051	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388095079
+USER	Summary API	END	1676388095080
+USER	Summary API	END	1676388095080
+USER	Summary API	END	1676388095081
+USER	Summary API	END	1676388095082
+USER	Summary API	END	1676388095083
+USER	Summary API	END	1676388095084
+USER	Summary API	END	1676388095085
+USER	Summary API	END	1676388095086
+USER	Summary API	END	1676388095086
+USER	Summary API	END	1676388095087
+USER	Summary API	END	1676388095087
+USER	Summary API	END	1676388095087
+USER	Summary API	END	1676388095087
+USER	Summary API	END	1676388095087
+USER	Summary API	END	1676388095087
+USER	Summary API	END	1676388095088
+USER	Summary API	END	1676388095089
+USER	Summary API	END	1676388095089
+USER	Summary API	END	1676388095091
+USER	Summary API	END	1676388095091
+USER	Summary API	END	1676388095091
+USER	Summary API	END	1676388095091
+USER	Summary API	END	1676388095091
+USER	Summary API	END	1676388095091
+USER	Summary API	END	1676388095092
+USER	Summary API	END	1676388095093
+USER	Summary API	END	1676388095095
+USER	Summary API	END	1676388095096
+USER	Summary API	END	1676388095111
+USER	Summary API	END	1676388095112
+USER	Summary API	END	1676388095113
+REQUEST		Approval Techup - Fetch approval Techups	1676388094840	1676388095115	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388095119
+USER	Summary API	END	1676388095120
+USER	Summary API	END	1676388095167
+REQUEST		My Techup - Fetch approved Techup	1676388094346	1676388095167	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388095346
+REQUEST		AllTechup - Fetch all Techup	1676388095105	1676388095377	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388095409
+USER	Summary API	END	1676388095417
+USER	Summary API	END	1676388095419
+USER	Summary API	END	1676388095422
+REQUEST		Approval Techup - Fetch approval Techups	1676388095160	1676388095431	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388095468
+USER	Summary API	END	1676388095472
+REQUEST		My Techup - Fetch approved Techup	1676388094679	1676388095496	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388095679
+REQUEST		AllTechup - Fetch all Techup	1676388095440	1676388095712	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388095502	1676388095774	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388095822
+USER	Summary API	END	1676388095824
+REQUEST		My Techup - Fetch approved Techup	1676388095012	1676388095832	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388096012
+REQUEST		AllTechup - Fetch all Techup	1676388095803	1676388096072	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388095823	1676388096092	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388096111
+REQUEST		My Techup - Fetch approved Techup	1676388095346	1676388096169	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388096346
+REQUEST		AllTechup - Fetch all Techup	1676388096113	1676388096386	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388095679	1676388096494	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388096211	1676388096498	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388096523
+USER	Summary API	START	1676388096678
+REQUEST		AllTechup - Fetch all Techup	1676388096442	1676388096714	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388096496	1676388096766	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388096012	1676388096886	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388096916
+USER	Summary API	START	1676388097011
+REQUEST		AllTechup - Fetch all Techup	1676388096767	1676388097038	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388096828	1676388097099	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388097116
+REQUEST		My Techup - Fetch approved Techup	1676388096346	1676388097160	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388097345
+REQUEST		AllTechup - Fetch all Techup	1676388097097	1676388097368	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388097172	1676388097445	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388097466
+REQUEST		My Techup - Fetch approved Techup	1676388096678	1676388097499	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388097679
+USER	Summary API	END	1676388097697
+REQUEST		AllTechup - Fetch all Techup	1676388097439	1676388097711	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388097501	1676388097774	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388097012	1676388097825	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388098012
+REQUEST		AllTechup - Fetch all Techup	1676388097767	1676388098039	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388098051
+REQUEST		Approval Techup - Fetch approval Techups	1676388097829	1676388098101	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388097345	1676388098156	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388098346
+USER	Summary API	END	1676388098377
+REQUEST		AllTechup - Fetch all Techup	1676388098115	1676388098390	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388098168	1676388098440	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388097679	1676388098493	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388098679
+REQUEST		AllTechup - Fetch all Techup	1676388098431	1676388098702	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388098714
+REQUEST		Approval Techup - Fetch approval Techups	1676388098497	1676388098767	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388098012	1676388098829	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388099012
+REQUEST		AllTechup - Fetch all Techup	1676388098775	1676388099047	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388099073
+REQUEST		Approval Techup - Fetch approval Techups	1676388098833	1676388099105	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388098346	1676388099161	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388099346
+REQUEST		AllTechup - Fetch all Techup	1676388099093	1676388099366	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388099387
+REQUEST		Approval Techup - Fetch approval Techups	1676388099169	1676388099442	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388098679	1676388099490	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388099679
+USER	Summary API	END	1676388099721
+REQUEST		Approval Techup - Fetch approval Techups	1676388099494	1676388099764	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388099498	1676388099785	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388099012	1676388099841	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388100012
+REQUEST		AllTechup - Fetch all Techup	1676388099767	1676388100037	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388100039
+REQUEST		My Techup - Fetch approved Techup	1676388099346	1676388100166	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388099886	1676388100176	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388100346
+USER	Summary API	END	1676388100369
+REQUEST		AllTechup - Fetch all Techup	1676388100099	1676388100372	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388100161	1676388100431	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388099679	1676388100504	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388100678
+USER	Summary API	END	1676388100712
+REQUEST		AllTechup - Fetch all Techup	1676388100445	1676388100718	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388100499	1676388100772	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388100012	1676388100823	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388101011
+USER	Summary API	END	1676388101040
+REQUEST		AllTechup - Fetch all Techup	1676388100774	1676388101047	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388100825	1676388101101	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388100346	1676388101193	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388101345
+USER	Summary API	END	1676388101391
+REQUEST		Approval Techup - Fetch approval Techups	1676388101157	1676388101460	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388101102	1676388101463	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388101678
+USER	Summary API	END	1676388101703
+REQUEST		My Techup - Fetch approved Techup	1676388100678	1676388101708	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388101440	1676388101711	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388101493	1676388101844	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388102011
+USER	Summary API	END	1676388102048
+REQUEST		My Techup - Fetch approved Techup	1676388101011	1676388102049	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388101767	1676388102115	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388101830	1676388102116	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388101345	1676388102321	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388102345
+USER	Summary API	END	1676388102367
+REQUEST		AllTechup - Fetch all Techup	1676388102106	1676388102459	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388102161	1676388102523	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388101678	1676388102664	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388102678
+REQUEST		AllTechup - Fetch all Techup	1676388102443	1676388102730	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388102785
+REQUEST		Approval Techup - Fetch approval Techups	1676388102491	1676388102869	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388102011	1676388102936	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388103011
+USER	Summary API	END	1676388103039
+REQUEST		AllTechup - Fetch all Techup	1676388102765	1676388103137	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388102842	1676388103142	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388102346	1676388103336	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388103346
+USER	Summary API	END	1676388103373
+REQUEST		Approval Techup - Fetch approval Techups	1676388103166	1676388103548	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388103176	1676388103566	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388103678
+REQUEST		My Techup - Fetch approved Techup	1676388102679	1676388103688	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388103719
+REQUEST		AllTechup - Fetch all Techup	1676388103432	1676388103751	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388103504	1676388103893	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388103012	1676388103962	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388104011
+USER	Summary API	END	1676388104048
+REQUEST		AllTechup - Fetch all Techup	1676388103772	1676388104098	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388103823	1676388104159	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388104345
+REQUEST		AllTechup - Fetch all Techup	1676388104102	1676388104371	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388103346	1676388104382	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388104464
+REQUEST		Approval Techup - Fetch approval Techups	1676388104194	1676388104572	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388103678	1676388104588	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388104679
+USER	Summary API	END	1676388104712
+REQUEST		AllTechup - Fetch all Techup	1676388104461	1676388104785	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388104011	1676388104917	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388104709	1676388104980	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388105012
+REQUEST		AllTechup - Fetch all Techup	1676388104845	1676388105115	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388105117
+REQUEST		My Techup - Fetch approved Techup	1676388104345	1676388105163	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388105050	1676388105318	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388105346
+REQUEST		AllTechup - Fetch all Techup	1676388105116	1676388105387	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388105460
+REQUEST		My Techup - Fetch approved Techup	1676388104679	1676388105493	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388105322	1676388105593	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388105678
+USER	Summary API	END	1676388105730
+REQUEST		AllTechup - Fetch all Techup	1676388105523	1676388105793	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388105012	1676388105832	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388105664	1676388105935	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388106011
+USER	Summary API	END	1676388106138
+REQUEST		AllTechup - Fetch all Techup	1676388105869	1676388106139	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388105346	1676388106172	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388105936	1676388106206	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388106345
+REQUEST		AllTechup - Fetch all Techup	1676388106142	1676388106417	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388105678	1676388106500	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388106567
+REQUEST		Approval Techup - Fetch approval Techups	1676388106337	1676388106611	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388106679
+USER	Summary API	END	1676388106752
+REQUEST		AllTechup - Fetch all Techup	1676388106548	1676388106820	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388106011	1676388106828	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388106689	1676388106962	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388107012
+USER	Summary API	END	1676388107098
+REQUEST		My Techup - Fetch approved Techup	1676388106345	1676388107159	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388106893	1676388107167	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388106962	1676388107234	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388107346
+USER	Summary API	END	1676388107372
+REQUEST		AllTechup - Fetch all Techup	1676388107159	1676388107428	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388106679	1676388107503	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388107382	1676388107667	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388107678
+USER	Summary API	END	1676388107786
+REQUEST		My Techup - Fetch approved Techup	1676388107012	1676388107835	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388107572	1676388107842	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388107588	1676388107872	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388108011
+USER	Summary API	END	1676388108116
+REQUEST		My Techup - Fetch approved Techup	1676388107346	1676388108162	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388107917	1676388108190	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388107981	1676388108253	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388108345
+USER	Summary API	END	1676388108389
+REQUEST		Approval Techup - Fetch approval Techups	1676388108163	1676388108433	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388107678	1676388108537	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388108318	1676388108586	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388108678
+REQUEST		Approval Techup - Fetch approval Techups	1676388108493	1676388108762	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388108794
+REQUEST		My Techup - Fetch approved Techup	1676388108012	1676388108832	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388108594	1676388108864	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388109011
+REQUEST		Approval Techup - Fetch approval Techups	1676388108832	1676388109103	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388109140
+REQUEST		My Techup - Fetch approved Techup	1676388108345	1676388109164	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388108936	1676388109206	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388109345
+USER	Summary API	END	1676388109419
+REQUEST		Approval Techup - Fetch approval Techups	1676388109173	1676388109447	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388109206	1676388109477	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388108678	1676388109496	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388109679
+REQUEST		Approval Techup - Fetch approval Techups	1676388109500	1676388109773	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388109821
+REQUEST		My Techup - Fetch approved Techup	1676388109011	1676388109825	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388109611	1676388109886	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388110012
+REQUEST		Approval Techup - Fetch approval Techups	1676388109829	1676388110100	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388110167
+REQUEST		AllTechup - Fetch all Techup	1676388109962	1676388110237	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388110346
+REQUEST		Approval Techup - Fetch approval Techups	1676388110159	1676388110428	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388110429
+REQUEST		My Techup - Fetch approved Techup	1676388109679	1676388110503	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388110235	1676388110507	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388109345	1676388110509	KO	status.find.is(204), but actually found 503
+USER	Summary API	START	1676388110678
+REQUEST		Approval Techup - Fetch approval Techups	1676388110503	1676388110775	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388110012	1676388110835	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388110843
+REQUEST		AllTechup - Fetch all Techup	1676388110667	1676388110953	KO	status.find.is(200), but actually found 503
+USER	Summary API	START	1676388111012
+REQUEST		Approval Techup - Fetch approval Techups	1676388110835	1676388111108	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388110872	1676388111157	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388110346	1676388111177	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388111254
+REQUEST		Approval Techup - Fetch approval Techups	1676388111163	1676388111433	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388111191	1676388111463	KO	status.find.is(200), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388110679	1676388111494	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388111586
+REQUEST		AllTechup - Fetch all Techup	1676388111434	1676388111705	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388111537	1676388111823	KO	status.find.is(204), but actually found 503
+REQUEST		My Techup - Fetch approved Techup	1676388111013	1676388111840	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388111865
+REQUEST		AllTechup - Fetch all Techup	1676388111763	1676388112059	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388111833	1676388112105	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388112207
+REQUEST		AllTechup - Fetch all Techup	1676388112104	1676388112451	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388112165	1676388112451	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388112478
+REQUEST		Approval Techup - Fetch approval Techups	1676388112496	1676388112776	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388112447	1676388112776	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388112886
+REQUEST		AllTechup - Fetch all Techup	1676388112773	1676388113048	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388112826	1676388113095	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388113237
+REQUEST		AllTechup - Fetch all Techup	1676388113100	1676388113372	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388113508
+REQUEST		AllTechup - Fetch all Techup	1676388113429	1676388113697	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388113503	1676388113777	KO	status.find.is(204), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388113509	1676388113780	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388113953
+REQUEST		AllTechup - Fetch all Techup	1676388113776	1676388114048	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388113835	1676388114108	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388114158
+REQUEST		AllTechup - Fetch all Techup	1676388114108	1676388114379	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388114178	1676388114453	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388114464
+REQUEST		AllTechup - Fetch all Techup	1676388114433	1676388114703	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388114705
+REQUEST		Approval Techup - Fetch approval Techups	1676388114495	1676388114764	KO	status.find.is(204), but actually found 503
+USER	Summary API	END	1676388115060
+REQUEST		AllTechup - Fetch all Techup	1676388114823	1676388115108	KO	status.find.is(200), but actually found 503
+REQUEST		Approval Techup - Fetch approval Techups	1676388114840	1676388115116	KO	status.find.is(204), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388115106	1676388115379	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388115452
+REQUEST		AllTechup - Fetch all Techup	1676388115452	1676388115723	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388115777
+REQUEST		AllTechup - Fetch all Techup	1676388115777	1676388116047	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388116048
+USER	Summary API	END	1676388116372
+REQUEST		AllTechup - Fetch all Techup	1676388116096	1676388116457	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388116698
+USER	Summary API	END	1676388117049
+REQUEST		AllTechup - Fetch all Techup	1676388116780	1676388117063	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388116777	1676388117066	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388117380
+REQUEST		AllTechup - Fetch all Techup	1676388117109	1676388117476	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388117704
+REQUEST		AllTechup - Fetch all Techup	1676388117454	1676388117733	KO	status.find.is(200), but actually found 503
+REQUEST		AllTechup - Fetch all Techup	1676388117765	1676388118035	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388118109
+USER	Summary API	END	1676388118380
+REQUEST		AllTechup - Fetch all Techup	1676388118116	1676388118392	KO	status.find.is(200), but actually found 503
+USER	Summary API	END	1676388118724
+USER	Summary API	END	1676388119048
+USER	Summary API	END	1676388119458
+USER	Summary API	END	1676388120064
+USER	Summary API	END	1676388120067
+USER	Summary API	END	1676388120477
+USER	Summary API	END	1676388120734
+USER	Summary API	END	1676388121035
+USER	Summary API	END	1676388121393

@@ -1,0 +1,842 @@
+RUN	Simulations.Runner.Go1percent	go1percent	1674757408507	 	3.5.1
+USER	Contribution API	START	1674757409530
+USER	Contribution API	START	1674757409574
+USER	Contribution API	START	1674757409625
+USER	Contribution API	START	1674757409675
+USER	Contribution API	START	1674757409725
+USER	Contribution API	START	1674757409775
+USER	Contribution API	START	1674757409825
+USER	Contribution API	START	1674757409876
+USER	Contribution API	START	1674757409926
+USER	Contribution API	START	1674757409976
+USER	Contribution API	START	1674757410026
+USER	Contribution API	START	1674757410076
+USER	Contribution API	START	1674757410126
+USER	Contribution API	START	1674757410176
+USER	Contribution API	START	1674757410226
+USER	Contribution API	START	1674757410276
+USER	Contribution API	START	1674757410326
+USER	Contribution API	START	1674757410377
+USER	Contribution API	START	1674757410427
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409545	1674757410446	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409574	1674757410446	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409625	1674757410464	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410476
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409676	1674757410501	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410527
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409726	1674757410552	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410577
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409776	1674757410600	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410627
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409826	1674757410661	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410677
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409876	1674757410718	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410727
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409927	1674757410754	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410777
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757409977	1674757410805	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410827
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410027	1674757410854	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410877
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410077	1674757410911	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410927
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410127	1674757410954	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757410977
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410177	1674757411026	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411027
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410227	1674757411062	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411077
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410277	1674757411103	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411127
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410327	1674757411144	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411177
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410377	1674757411209	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411227
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410427	1674757411252	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411277
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410477	1674757411308	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411327
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410527	1674757411348	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411377
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410577	1674757411401	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411428
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410627	1674757411467	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411478
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410677	1674757411501	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411528
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410727	1674757411552	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411573
+USER	Contribution API	START	1674757411623
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410777	1674757411628	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410827	1674757411659	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410877	1674757411702	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410928	1674757411766	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757410978	1674757411799	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411823
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411028	1674757411852	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411078	1674757411899	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411923
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411128	1674757411951	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757411973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411178	1674757412004	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412023
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411228	1674757412067	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412074
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411278	1674757412103	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412124
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411328	1674757412161	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412173
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411378	1674757412218	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412223
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411428	1674757412248	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412274
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411478	1674757412307	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412324
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411528	1674757412355	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412374
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411573	1674757412404	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412424
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411623	1674757412446	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412474
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411673	1674757412503	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412524
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411723	1674757412539	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412572
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411774	1674757412604	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412622
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411823	1674757412651	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411874	1674757412714	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411924	1674757412754	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757411973	1674757412797	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412823
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412024	1674757412859	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412074	1674757412905	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412923
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412124	1674757412944	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757412973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412174	1674757412993	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413023
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412224	1674757413049	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413074
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412274	1674757413107	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412324	1674757413155	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413174
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412374	1674757413200	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413224
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412424	1674757413248	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413274
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412474	1674757413309	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413324
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412524	1674757413372	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413374
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412573	1674757413408	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413424
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412623	1674757413456	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413467
+USER	Contribution API	END	1674757413467
+USER	Contribution API	END	1674757413467
+USER	Contribution API	START	1674757413474
+USER	Contribution API	END	1674757413502
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412673	1674757413503	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413524
+USER	Contribution API	END	1674757413553
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412723	1674757413554	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413573
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412773	1674757413596	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413601
+USER	Contribution API	START	1674757413623
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412824	1674757413658	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413663
+USER	Contribution API	START	1674757413673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412873	1674757413710	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413720
+USER	Contribution API	START	1674757413723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412923	1674757413746	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413756
+USER	Contribution API	START	1674757413773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757412974	1674757413794	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413806
+USER	Contribution API	START	1674757413824
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413024	1674757413850	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757413855
+USER	Contribution API	START	1674757413873
+USER	Contribution API	END	1674757413913
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413074	1674757413914	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413923
+USER	Contribution API	END	1674757413955
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413124	1674757413964	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757413973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413174	1674757414009	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414023
+USER	Contribution API	END	1674757414027
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413224	1674757414053	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414063
+USER	Contribution API	START	1674757414073
+USER	Contribution API	END	1674757414104
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413274	1674757414112	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414123
+USER	Contribution API	END	1674757414145
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413324	1674757414160	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414173
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413374	1674757414202	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414210
+USER	Contribution API	START	1674757414223
+USER	Contribution API	END	1674757414254
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413424	1674757414265	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414273
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413474	1674757414302	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414310
+USER	Contribution API	START	1674757414324
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413524	1674757414341	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414349
+USER	Contribution API	START	1674757414374
+USER	Contribution API	END	1674757414402
+USER	Contribution API	START	1674757414424
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413574	1674757414432	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413624	1674757414454	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414468
+USER	Contribution API	START	1674757414474
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413674	1674757414499	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414502
+USER	Contribution API	START	1674757414524
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413724	1674757414552	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414553
+USER	Contribution API	START	1674757414573
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413774	1674757414602	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414623
+USER	Contribution API	END	1674757414630
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413824	1674757414658	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414661
+USER	Contribution API	START	1674757414673
+USER	Contribution API	END	1674757414703
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413874	1674757414715	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413924	1674757414766	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414767
+USER	Contribution API	START	1674757414773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757413974	1674757414797	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757414800
+USER	Contribution API	START	1674757414823
+USER	Contribution API	END	1674757414853
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414023	1674757414854	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414873
+USER	Contribution API	END	1674757414901
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414074	1674757414915	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414923
+USER	Contribution API	END	1674757414953
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414124	1674757414956	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757414973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414174	1674757415003	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415006
+USER	Contribution API	START	1674757415023
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414224	1674757415040	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415068
+USER	Contribution API	START	1674757415073
+USER	Contribution API	END	1674757415105
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414274	1674757415106	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414324	1674757415151	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415162
+USER	Contribution API	START	1674757415174
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414374	1674757415195	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415219
+USER	Contribution API	START	1674757415224
+USER	Contribution API	END	1674757415249
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414424	1674757415256	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415274
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414474	1674757415298	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415309
+USER	Contribution API	START	1674757415324
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414524	1674757415351	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415356
+USER	Contribution API	START	1674757415374
+USER	Contribution API	END	1674757415406
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414573	1674757415407	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415424
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414623	1674757415444	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415447
+USER	Contribution API	START	1674757415474
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414673	1674757415493	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415504
+USER	Contribution API	START	1674757415524
+USER	Contribution API	END	1674757415541
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414723	1674757415554	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415573
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414773	1674757415592	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415605
+USER	Contribution API	START	1674757415623
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414824	1674757415643	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415653
+USER	Contribution API	START	1674757415673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414873	1674757415690	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415715
+USER	Contribution API	START	1674757415723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414923	1674757415750	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415755
+USER	Contribution API	START	1674757415773
+USER	Contribution API	END	1674757415799
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757414974	1674757415803	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415823
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415024	1674757415850	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757415861
+USER	Contribution API	START	1674757415873
+USER	Contribution API	END	1674757415906
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415074	1674757415907	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415923
+USER	Contribution API	END	1674757415945
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415124	1674757415945	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757415973
+USER	Contribution API	END	1674757415995
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415174	1674757415999	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757416023
+USER	Contribution API	END	1674757416050
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415224	1674757416054	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757416074
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415274	1674757416100	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416109
+USER	Contribution API	START	1674757416124
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415324	1674757416152	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416157
+USER	Contribution API	START	1674757416174
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415374	1674757416192	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416202
+USER	Contribution API	START	1674757416224
+USER	Contribution API	END	1674757416249
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415424	1674757416260	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757416274
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415474	1674757416298	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416310
+USER	Contribution API	START	1674757416324
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415525	1674757416357	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416373
+USER	Contribution API	START	1674757416374
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415573	1674757416403	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416409
+USER	Contribution API	START	1674757416424
+USER	Contribution API	END	1674757416458
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415624	1674757416460	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757416474
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415674	1674757416494	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416504
+USER	Contribution API	START	1674757416524
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415724	1674757416554	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416555
+USER	Contribution API	START	1674757416573
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415774	1674757416588	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416597
+USER	Contribution API	START	1674757416623
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415824	1674757416643	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416659
+USER	Contribution API	START	1674757416673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415874	1674757416704	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416711
+USER	Contribution API	START	1674757416723
+USER	Contribution API	END	1674757416747
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415924	1674757416753	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757416773
+USER	Contribution API	END	1674757416795
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757415974	1674757416804	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757416823
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416024	1674757416846	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416851
+USER	Contribution API	START	1674757416873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416074	1674757416900	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416916
+USER	Contribution API	START	1674757416923
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416124	1674757416945	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757416965
+USER	Contribution API	START	1674757416973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416174	1674757416994	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417010
+USER	Contribution API	START	1674757417023
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416224	1674757417048	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417054
+USER	Contribution API	START	1674757417073
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416274	1674757417111	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417113
+USER	Contribution API	START	1674757417123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416324	1674757417152	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417161
+USER	Contribution API	START	1674757417173
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416374	1674757417200	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417203
+USER	Contribution API	START	1674757417223
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416424	1674757417254	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417267
+USER	Contribution API	START	1674757417273
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416474	1674757417300	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417303
+USER	Contribution API	START	1674757417323
+USER	Contribution API	END	1674757417342
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416525	1674757417357	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757417373
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416573	1674757417398	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757417423
+USER	Contribution API	END	1674757417433
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416623	1674757417446	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417455
+USER	Contribution API	START	1674757417473
+USER	Contribution API	END	1674757417500
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416673	1674757417504	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757417523
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416723	1674757417542	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417553
+USER	Contribution API	START	1674757417573
+USER	Contribution API	END	1674757417603
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416773	1674757417607	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757417623
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416823	1674757417643	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417659
+USER	Contribution API	START	1674757417673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416873	1674757417707	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417716
+USER	Contribution API	START	1674757417723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416924	1674757417753	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417768
+USER	Contribution API	START	1674757417773
+USER	Contribution API	END	1674757417798
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757416973	1674757417803	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757417823
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417023	1674757417841	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417855
+USER	Contribution API	START	1674757417873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417073	1674757417896	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417917
+USER	Contribution API	START	1674757417923
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417123	1674757417946	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757417958
+USER	Contribution API	START	1674757417973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417173	1674757418004	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418005
+USER	Contribution API	START	1674757418023
+USER	Contribution API	END	1674757418042
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417223	1674757418045	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418073
+USER	Contribution API	END	1674757418108
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417274	1674757418122	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417324	1674757418146	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418153
+USER	Contribution API	START	1674757418173
+USER	Contribution API	END	1674757418197
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417374	1674757418208	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418223
+USER	Contribution API	END	1674757418257
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417423	1674757418259	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418273
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417474	1674757418296	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418299
+USER	Contribution API	START	1674757418323
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417523	1674757418351	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418352
+USER	Contribution API	START	1674757418373
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417573	1674757418394	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418407
+USER	Contribution API	START	1674757418423
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417623	1674757418441	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418445
+USER	Contribution API	START	1674757418473
+USER	Contribution API	END	1674757418494
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417673	1674757418497	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418523
+USER	Contribution API	END	1674757418555
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417723	1674757418555	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418573
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417773	1674757418588	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418593
+USER	Contribution API	START	1674757418623
+USER	Contribution API	END	1674757418644
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417824	1674757418656	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418673
+USER	Contribution API	END	1674757418691
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417873	1674757418702	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418723
+USER	Contribution API	END	1674757418751
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417924	1674757418752	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757417974	1674757418789	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418804
+USER	Contribution API	START	1674757418823
+USER	Contribution API	END	1674757418852
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418024	1674757418854	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418074	1674757418905	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757418909
+USER	Contribution API	START	1674757418923
+USER	Contribution API	END	1674757418946
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418123	1674757418952	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757418973
+USER	Contribution API	END	1674757419001
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418174	1674757419003	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419023
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418224	1674757419041	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419055
+USER	Contribution API	START	1674757419073
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418274	1674757419098	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419101
+USER	Contribution API	START	1674757419123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418324	1674757419145	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419154
+USER	Contribution API	START	1674757419173
+USER	Contribution API	END	1674757419194
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418374	1674757419209	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419223
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418423	1674757419257	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419261
+USER	Contribution API	START	1674757419273
+USER	Contribution API	END	1674757419299
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418474	1674757419306	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419323
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418524	1674757419347	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419358
+USER	Contribution API	START	1674757419373
+USER	Contribution API	END	1674757419404
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418573	1674757419409	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419423
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418623	1674757419443	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419462
+USER	Contribution API	START	1674757419473
+USER	Contribution API	END	1674757419495
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418673	1674757419501	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419523
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418723	1674757419542	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419556
+USER	Contribution API	START	1674757419572
+USER	Contribution API	END	1674757419589
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418773	1674757419593	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419622
+USER	Contribution API	END	1674757419644
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418823	1674757419670	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419672
+USER	Contribution API	END	1674757419706
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418873	1674757419710	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419722
+USER	Contribution API	END	1674757419754
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418923	1674757419762	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419772
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757418974	1674757419794	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419806
+USER	Contribution API	START	1674757419822
+USER	Contribution API	END	1674757419847
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419023	1674757419865	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757419872
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419073	1674757419897	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419901
+USER	Contribution API	START	1674757419922
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419123	1674757419944	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419946
+USER	Contribution API	START	1674757419972
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419174	1674757419991	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757419995
+USER	Contribution API	START	1674757420022
+USER	Contribution API	END	1674757420050
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419223	1674757420050	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420072
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419273	1674757420098	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420112
+USER	Contribution API	START	1674757420122
+USER	Contribution API	END	1674757420153
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419323	1674757420163	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420172
+USER	Contribution API	END	1674757420201
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419374	1674757420208	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420222
+USER	Contribution API	END	1674757420255
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419424	1674757420259	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420272
+USER	Contribution API	END	1674757420301
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419474	1674757420304	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420322
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419524	1674757420347	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420358
+USER	Contribution API	START	1674757420373
+USER	Contribution API	END	1674757420400
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419572	1674757420402	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420422
+USER	Contribution API	END	1674757420447
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419622	1674757420447	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420472
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419672	1674757420488	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420505
+USER	Contribution API	START	1674757420523
+USER	Contribution API	END	1674757420543
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419722	1674757420561	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420573
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419772	1674757420592	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420608
+USER	Contribution API	START	1674757420623
+USER	Contribution API	END	1674757420644
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419822	1674757420646	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419872	1674757420694	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420708
+USER	Contribution API	START	1674757420723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419922	1674757420749	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420754
+USER	Contribution API	START	1674757420773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757419973	1674757420792	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420804
+USER	Contribution API	START	1674757420823
+USER	Contribution API	END	1674757420843
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420023	1674757420860	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420073	1674757420893	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757420897
+USER	Contribution API	START	1674757420923
+USER	Contribution API	END	1674757420948
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420123	1674757420948	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757420973
+USER	Contribution API	END	1674757421005
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420173	1674757421008	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421023
+USER	Contribution API	END	1674757421046
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420223	1674757421060	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421073
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420273	1674757421103	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421123
+USER	Contribution API	START	1674757421123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420323	1674757421145	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421147
+USER	Contribution API	START	1674757421174
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420373	1674757421186	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421209
+USER	Contribution API	START	1674757421223
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420423	1674757421254	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421260
+USER	Contribution API	START	1674757421273
+USER	Contribution API	END	1674757421297
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420473	1674757421300	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421323
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420523	1674757421344	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421352
+USER	Contribution API	START	1674757421373
+USER	Contribution API	END	1674757421396
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420573	1674757421404	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421423
+USER	Contribution API	END	1674757421443
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420623	1674757421459	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421473
+USER	Contribution API	END	1674757421498
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420673	1674757421506	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421523
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420723	1674757421544	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421556
+USER	Contribution API	START	1674757421572
+USER	Contribution API	END	1674757421589
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420774	1674757421595	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421622
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420823	1674757421637	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421657
+USER	Contribution API	START	1674757421673
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420873	1674757421692	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421703
+USER	Contribution API	START	1674757421723
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420923	1674757421748	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421754
+USER	Contribution API	START	1674757421773
+USER	Contribution API	END	1674757421790
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757420973	1674757421799	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421823
+USER	Contribution API	END	1674757421855
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421023	1674757421863	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421873
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421074	1674757421904	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757421906
+USER	Contribution API	START	1674757421923
+USER	Contribution API	END	1674757421953
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421124	1674757421955	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757421973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421174	1674757421997	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422004
+USER	Contribution API	START	1674757422023
+USER	Contribution API	END	1674757422042
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421224	1674757422050	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422073
+USER	Contribution API	END	1674757422099
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421274	1674757422117	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421323	1674757422143	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422146
+USER	Contribution API	START	1674757422173
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421374	1674757422201	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422210
+USER	Contribution API	START	1674757422223
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421424	1674757422246	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422258
+USER	Contribution API	START	1674757422273
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421474	1674757422302	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422307
+USER	Contribution API	START	1674757422323
+USER	Contribution API	END	1674757422348
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421524	1674757422358	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422373
+USER	Contribution API	END	1674757422410
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421573	1674757422416	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422423
+USER	Contribution API	END	1674757422444
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421623	1674757422455	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422473
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421673	1674757422490	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422502
+USER	Contribution API	START	1674757422523
+USER	Contribution API	END	1674757422544
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421723	1674757422544	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422572
+USER	Contribution API	END	1674757422594
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421773	1674757422595	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422622
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421823	1674757422649	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422671
+USER	Contribution API	START	1674757422672
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421874	1674757422700	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422712
+USER	Contribution API	START	1674757422722
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421923	1674757422744	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422762
+USER	Contribution API	START	1674757422772
+USER	Contribution API	END	1674757422795
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757421973	1674757422796	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757422822
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422023	1674757422853	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422867
+USER	Contribution API	START	1674757422872
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422073	1674757422891	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422899
+USER	Contribution API	START	1674757422922
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422123	1674757422944	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757422945
+USER	Contribution API	START	1674757422973
+USER	Contribution API	END	1674757422992
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422173	1674757422997	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423022
+USER	Contribution API	END	1674757423051
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422223	1674757423053	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423072
+USER	Contribution API	END	1674757423099
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422274	1674757423102	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422323	1674757423154	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423164
+USER	Contribution API	START	1674757423173
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422373	1674757423198	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423210
+USER	Contribution API	START	1674757423223
+USER	Contribution API	END	1674757423260
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422423	1674757423264	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423273
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422473	1674757423301	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423304
+USER	Contribution API	START	1674757423323
+USER	Contribution API	END	1674757423348
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422523	1674757423353	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423373
+USER	Contribution API	END	1674757423403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422573	1674757423415	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423423
+USER	Contribution API	END	1674757423448
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422623	1674757423459	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423473
+USER	Contribution API	END	1674757423489
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422673	1674757423503	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423523
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422723	1674757423548	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423562
+USER	Contribution API	START	1674757423572
+USER	Contribution API	END	1674757423593
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422773	1674757423603	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423623
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422823	1674757423643	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423647
+USER	Contribution API	START	1674757423673
+USER	Contribution API	END	1674757423695
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422873	1674757423700	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423723
+USER	Contribution API	END	1674757423750
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422923	1674757423754	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423773
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757422973	1674757423790	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423793
+USER	Contribution API	START	1674757423823
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423023	1674757423855	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423861
+USER	Contribution API	START	1674757423873
+USER	Contribution API	END	1674757423894
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423073	1674757423912	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757423923
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423123	1674757423940	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757423949
+USER	Contribution API	START	1674757423973
+USER	Contribution API	END	1674757424009
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423173	1674757424010	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424023
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423223	1674757424048	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424061
+USER	Contribution API	START	1674757424073
+USER	Contribution API	END	1674757424104
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423273	1674757424111	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424123
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423323	1674757424141	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424146
+USER	Contribution API	START	1674757424173
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423373	1674757424186	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424187
+USER	Contribution API	START	1674757424223
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423423	1674757424246	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424255
+USER	Contribution API	START	1674757424273
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423473	1674757424299	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424301
+USER	Contribution API	START	1674757424323
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423523	1674757424345	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424345
+USER	Contribution API	START	1674757424373
+USER	Contribution API	END	1674757424405
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423573	1674757424410	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424423
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423623	1674757424457	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424460
+USER	Contribution API	START	1674757424473
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423673	1674757424504	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424506
+USER	Contribution API	START	1674757424523
+USER	Contribution API	END	1674757424545
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423723	1674757424546	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424572
+USER	Contribution API	END	1674757424596
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423773	1674757424600	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424622
+USER	Contribution API	END	1674757424638
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423823	1674757424648	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424672
+USER	Contribution API	END	1674757424693
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423873	1674757424704	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424722
+USER	Contribution API	END	1674757424750
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423923	1674757424758	KO	status.find.is(200), but actually found 403
+USER	Contribution API	START	1674757424772
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757423973	1674757424796	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424800
+USER	Contribution API	START	1674757424822
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757424023	1674757424842	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424864
+USER	Contribution API	START	1674757424872
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757424073	1674757424897	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424905
+USER	Contribution API	START	1674757424922
+USER	Contribution API	END	1674757424956
+USER	Contribution API	START	1674757424973
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757424123	1674757424978	KO	status.find.is(200), but actually found 403
+REQUEST		/Contribution/getknolderContribution-Fetch all the other contributions by the user	1674757424173	1674757424996	KO	status.find.is(200), but actually found 403
+USER	Contribution API	END	1674757424998
+USER	Contribution API	START	1674757425023
+USER	Contribution API	END	1674757425051
+REQUEST		

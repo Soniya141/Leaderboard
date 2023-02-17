@@ -1,0 +1,138 @@
+RUN	Simulations.Create	create	1672832030397	 	3.5.1
+USER	Create  Scenario	START	1672832036810
+USER	Create  Scenario	START	1672832037807
+REQUEST		Proposal	1672832036844	1672832037812	KO	status.find.is(200), but actually found 404
+REQUEST		Proposal	1672832037807	1672832038704	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832038807
+REQUEST		Proposal	1672832038807	1672832039680	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832039807
+REQUEST		Proposal	1672832039807	1672832040692	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832040807
+USER	Create  Scenario	END	1672832040834
+REQUEST		Proposal	1672832040808	1672832041697	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832041705
+USER	Create  Scenario	START	1672832041807
+USER	Create  Scenario	END	1672832042682
+REQUEST		Proposal	1672832041808	1672832042714	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832042807
+USER	Create  Scenario	END	1672832043694
+REQUEST		Proposal	1672832042807	1672832043695	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832043806
+REQUEST		Proposal	1672832043807	1672832044699	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832044699
+USER	Create  Scenario	START	1672832044807
+REQUEST		Proposal	1672832044808	1672832045678	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832045716
+USER	Create  Scenario	START	1672832045807
+USER	Create  Scenario	END	1672832046696
+REQUEST		Proposal	1672832045808	1672832046701	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832046807
+USER	Create  Scenario	END	1672832047700
+REQUEST		Proposal	1672832046807	1672832047716	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832047807
+USER	Create  Scenario	END	1672832048679
+REQUEST		Proposal	1672832047807	1672832048745	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832048807
+REQUEST		Proposal	1672832048807	1672832049683	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832049702
+USER	Create  Scenario	START	1672832049806
+REQUEST		Proposal	1672832049807	1672832050684	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832050717
+USER	Create  Scenario	START	1672832050807
+REQUEST		Proposal	1672832050807	1672832051697	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832051747
+USER	Create  Scenario	START	1672832051807
+USER	Create  Scenario	END	1672832052685
+REQUEST		Proposal	1672832051807	1672832052712	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832052806
+USER	Create  Scenario	END	1672832053685
+REQUEST		Proposal	1672832052807	1672832053685	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832053806
+USER	Create  Scenario	END	1672832054698
+REQUEST		Proposal	1672832053807	1672832054733	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832054806
+REQUEST		Proposal	1672832054807	1672832055681	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832055713
+USER	Create  Scenario	START	1672832055807
+USER	Create  Scenario	END	1672832056687
+REQUEST		Proposal	1672832055807	1672832056695	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832056807
+REQUEST		Proposal	1672832056808	1672832057730	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832057735
+USER	Create  Scenario	START	1672832057807
+USER	Create  Scenario	END	1672832058683
+USER	Create  Scenario	START	1672832058807
+REQUEST		Proposal	1672832057808	1672832058832	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832059697
+REQUEST		Proposal	1672832058807	1672832059739	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832059807
+USER	Create  Scenario	END	1672832060731
+REQUEST		Proposal	1672832059807	1672832060786	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832060807
+REQUEST		Proposal	1672832060807	1672832061692	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832061806
+USER	Create  Scenario	END	1672832061833
+REQUEST		Proposal	1672832061807	1672832062683	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832062740
+USER	Create  Scenario	START	1672832062808
+REQUEST		Proposal	1672832062808	1672832063683	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832063787
+USER	Create  Scenario	START	1672832063807
+USER	Create  Scenario	END	1672832064693
+REQUEST		Proposal	1672832063808	1672832064707	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832064807
+USER	Create  Scenario	END	1672832065684
+REQUEST		Proposal	1672832064808	1672832065705	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832065806
+USER	Create  Scenario	END	1672832066684
+REQUEST		Proposal	1672832065807	1672832066799	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832066806
+USER	Create  Scenario	END	1672832067708
+REQUEST		Proposal	1672832066807	1672832067732	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832067806
+REQUEST		Proposal	1672832067807	1672832068697	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832068707
+USER	Create  Scenario	START	1672832068806
+REQUEST		Proposal	1672832068807	1672832069694	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832069800
+USER	Create  Scenario	START	1672832069806
+REQUEST		Proposal	1672832069807	1672832070678	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832070733
+USER	Create  Scenario	START	1672832070806
+USER	Create  Scenario	END	1672832071698
+REQUEST		Proposal	1672832070807	1672832071708	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832071807
+USER	Create  Scenario	END	1672832072696
+REQUEST		Proposal	1672832071807	1672832072753	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832072807
+USER	Create  Scenario	END	1672832073679
+REQUEST		Proposal	1672832072807	1672832073781	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832073807
+REQUEST		Proposal	1672832073807	1672832074690	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832074710
+USER	Create  Scenario	START	1672832074806
+REQUEST		Proposal	1672832074807	1672832075673	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832075755
+USER	Create  Scenario	START	1672832075807
+REQUEST		Proposal	1672832075808	1672832076724	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832076782
+USER	Create  Scenario	START	1672832076807
+USER	Create  Scenario	END	1672832077691
+REQUEST		Proposal	1672832076807	1672832077709	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832077806
+USER	Create  Scenario	END	1672832078674
+REQUEST		Proposal	1672832077807	1672832078786	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832078807
+REQUEST		Proposal	1672832078807	1672832079685	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832079726
+USER	Create  Scenario	START	1672832079806
+REQUEST		Proposal	1672832079807	1672832080683	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832080710
+USER	Create  Scenario	START	1672832080807
+REQUEST		Proposal	1672832080807	1672832081732	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	END	1672832081787
+USER	Create  Scenario	START	1672832081806
+USER	Create  Scenario	END	1672832082687
+REQUEST		Proposal	1672832081807	1672832082703	KO	status.find.is(200), but actually found 404
+USER	Create  Scenario	START	1672832082807
+REQUEST		Proposal	1672832082807	1672832083681	KO	
