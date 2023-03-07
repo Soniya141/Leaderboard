@@ -1,0 +1,5 @@
+package Scenario
+
+object Profile {
+
+}

@@ -1,4 +1,0 @@
-RUN	Simulations.Runner.Go1percent	go1percent	1675075720558	 	3.5.1
-USER	Contribution API	START	1675075721740
-REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675075721759	1675075722669	KO	status.find.is(200), but actually found 400
-USER	Contribution API	END	1675075725690

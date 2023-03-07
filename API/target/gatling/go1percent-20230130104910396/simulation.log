@@ -1,4 +1,0 @@
-RUN	Simulations.Runner.Go1percent	go1percent	1675075750396	 	3.5.1
-USER	Contribution API	START	1675075751246
-REQUEST		/contribution/addContribution-Helps us to add other contributions 	1675075751262	1675075755512	OK	 
-USER	Contribution API	END	1675075758527

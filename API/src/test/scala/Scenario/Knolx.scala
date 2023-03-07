@@ -1,20 +1,20 @@
 package API.Scenario
 
+import Request.Knolx.KnolxModule
 import io.gatling.core.Predef.scenario
-import _root_.Request.Leaderboard.Knolxx
 object Knolx {
 
   val knolxScenario = scenario("Contribution API")
-    .exec(Knolxx.manageSlot)
-    .exec(Knolxx.pastSession)
-    .exec(Knolxx.feedbackForm)
-    .exec(Knolxx.manageSession)
-    .exec(Knolxx.mypastSession)
-    .exec(Knolxx.bookASessionallUsers)
-    .exec(Knolxx.bookASessionaStudio)
-    .exec(Knolxx.managecompletedSession)
-    .exec(Knolxx.manageupcomingSession)
-    .exec(Knolxx.myupcomingSession)
+    .exec(KnolxModule.manageSlot)
+    .exec(KnolxModule.pastSession)
+    .exec(KnolxModule.feedbackForm)
+    .exec(KnolxModule.manageSession)
+    .exec(KnolxModule.mypastSession)
+    .exec(KnolxModule.bookASessionallUsers)
+    .exec(KnolxModule.bookASessionStudio)
+    .exec(KnolxModule.managecompletedSession)
+    .exec(KnolxModule.manageupcomingSession)
+    .exec(KnolxModule.myupcomingSession)
 
 
 

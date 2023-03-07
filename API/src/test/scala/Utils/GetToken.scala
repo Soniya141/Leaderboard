@@ -1,4 +1,9 @@
 package API.Utils
+
+import io.gatling.http.Predef.http
+import Request.Knolx.TokenModule.getAccessToken
+import io.gatling.core.Predef.configuration
+
 object GetToken {
 
 
@@ -7,7 +12,8 @@ object GetToken {
   val username: String = System.getProperty("bhavya")
   val password: String = System.getProperty("india1978")
    val grant_type: String = System.getProperty("password")
- val tokenPath: String = "https://auth.knoldus.com/auth/realms/knoldus/protocol/openid-connect/token"
+ val tokenPath = "https://auth.knoldus.com/auth/realms/knoldus/protocol/openid-connect/token"
+ val httpConf = http.baseUrl("https://auth.knoldus.com/auth/realms/knoldus/protocol/openid-connect/token")
 
 
 

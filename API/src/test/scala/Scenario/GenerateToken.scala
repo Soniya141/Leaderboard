@@ -1,5 +1,5 @@
 package API.Scenario
-import _root_.Request.Knolx.Token
+import _root_.Request.Knolx.TokenModule
 import io.gatling.core.Predef.scenario
 object GenerateToken {
   val generateTokenn = scenario("Scenario: Load Simulation With rampingUp Users")
@@ -8,6 +8,6 @@ object GenerateToken {
 //      println(mytoken.as[String])
 //      session
 //    })
-    .exec(Token.getAccessToken)
+    .exec(TokenModule.getAccessToken)
 
 }

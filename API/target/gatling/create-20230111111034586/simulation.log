@@ -1,4 +1,0 @@
-RUN	Simulations.Create	create	1673435434586	 	3.5.1
-USER	Create  Scenario	START	1673435440509
-REQUEST		Fetch contribution	1673435440530	1673435441416	OK	 
-USER	Create  Scenario	END	1673435444429
