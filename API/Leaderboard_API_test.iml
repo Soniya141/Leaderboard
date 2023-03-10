@@ -80,5 +80,6 @@
     <orderEntry type="library" name="Maven: org.jodd:jodd-util:6.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.burt:jmespath-jackson:0.5.0" level="project" />
     <orderEntry type="library" name="Maven: io.burt:jmespath-core:0.5.0" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.11.12" level="application" />
   </component>
 </module>
