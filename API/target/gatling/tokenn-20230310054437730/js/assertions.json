@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.Runner.Tokenn",
+  "simulationId": "tokenn",
+  "start": 1678427077730,
+  "description": "",
+  "scenarios": ["Token API"],
+  "assertions": [
+
+  ]
+}

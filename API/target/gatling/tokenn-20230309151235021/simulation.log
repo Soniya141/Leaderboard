@@ -1,0 +1,4 @@
+RUN	Simulations.Runner.Tokenn	tokenn	1678374755021	 	3.5.1
+USER	Token API	START	1678374756039
+REQUEST		Get access token	1678374756062	1678374757004	KO	status.find.is(200), but actually found 400
+USER	Token API	END	1678374757028
